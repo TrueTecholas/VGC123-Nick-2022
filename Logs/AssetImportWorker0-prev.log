@@ -1,0 +1,2635 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit Core' Language: 'en' Physical Memory: 16155 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Github/VGC123-Nick-2022
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57735
+Successfully changed project path to: D:/Github/VGC123-Nick-2022
+D:/Github/VGC123-Nick-2022
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 39.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Github/VGC123-Nick-2022/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2486)
+    Vendor:   
+    VRAM:     8050 MB
+    Driver:   30.0.14.7141
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56424
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001496 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.470 seconds
+Domain Reload Profiling:
+	ReloadAssembly (470ms)
+		BeginReloadAssembly (42ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (370ms)
+			LoadAssemblies (40ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (124ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (141ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (69ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005421 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Domain Reload Profiling:
+	ReloadAssembly (911ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (747ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (240ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (285ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (37ms)
+				BeforeProcessingInitializeOnLoad (68ms)
+				ProcessInitializeOnLoadAttributes (157ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2197 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2631.
+Total: 2.754700 ms (FindLiveObjects: 0.251000 ms CreateObjectMapping: 0.129600 ms MarkObjects: 2.317000 ms  DeleteObjects: 0.056400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/New Palette.prefab
+  artifactKey: Guid(a2e14188a34ffe943946f84aa318f03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Palette.prefab using Guid(a2e14188a34ffe943946f84aa318f03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3c5896fdde7f49df1efafc34e35e43e') in 0.132293 seconds 
+  Import took 0.213547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.108979 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(ccd098fc427401044b593cf6ca849d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(ccd098fc427401044b593cf6ca849d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94828e19537f53788cb85479ed5352e2') in 0.005537 seconds 
+  Import took 0.059125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 84.494774 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(ccd098fc427401044b593cf6ca849d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(ccd098fc427401044b593cf6ca849d73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e2c664ba70537f16dee7d8c9e96521') in 0.006951 seconds 
+  Import took 0.040330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.311123 seconds.
+  path: Assets/Sprites/Kirby
+  artifactKey: Guid(3452560180e6e2841bb9329cf6d323f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kirby using Guid(3452560180e6e2841bb9329cf6d323f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82096b48cc99ac396f8703cfda8dc293') in 0.004948 seconds 
+  Import took 0.014235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.037077 seconds.
+  path: Assets/Sprites/Map
+  artifactKey: Guid(a97d1911949297744bbb2d0b5d7d7e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Map using Guid(a97d1911949297744bbb2d0b5d7d7e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892c13472995ab34099a155cf688ddba') in 0.004882 seconds 
+  Import took 0.097785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 401.521939 seconds.
+  path: Assets/Sprites/Kirby/Kirby Snes 1.png
+  artifactKey: Guid(71b9176bb190da24aa2baa63059e85dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kirby/Kirby Snes 1.png using Guid(71b9176bb190da24aa2baa63059e85dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5d5ae0d4eda436dad74f2cb09ace9d9') in 0.062079 seconds 
+  Import took 0.083487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.240063 seconds.
+  path: Assets/Sprites/Kirby/Lirby Snes 3.png
+  artifactKey: Guid(9bd4829901a130f4bbb83e58f68c5b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kirby/Lirby Snes 3.png using Guid(9bd4829901a130f4bbb83e58f68c5b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '480c2910e96d4c91055813489ac1bf30') in 0.019734 seconds 
+  Import took 0.022734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 209.582031 seconds.
+  path: Assets/Sprites/Kirby/Lirby Snes 3.png
+  artifactKey: Guid(9bd4829901a130f4bbb83e58f68c5b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Kirby/Lirby Snes 3.png using Guid(9bd4829901a130f4bbb83e58f68c5b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9f9e97b0f987bd011c94a18021ea100') in 0.049943 seconds 
+  Import took 0.092755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.276374 seconds.
+  path: Assets/Pallets/Ground tiles.prefab
+  artifactKey: Guid(727fd4095a275b547a2e19bf5cdc4ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Ground tiles.prefab using Guid(727fd4095a275b547a2e19bf5cdc4ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecca934a696fe2b12f6498af7cc423e') in 0.147837 seconds 
+  Import took 0.216775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Pallets/Ground2.prefab
+  artifactKey: Guid(c297f0cc9ab967d47aa44a24052ad1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Ground2.prefab using Guid(c297f0cc9ab967d47aa44a24052ad1f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e3baca666e0bfdf461e1eba204682ff') in 0.013442 seconds 
+  Import took 0.053891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.037530 seconds.
+  path: Assets/Pallets/Kirby tileset 1_75.asset
+  artifactKey: Guid(82a052551ec3cea4da7b3532690c8df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_75.asset using Guid(82a052551ec3cea4da7b3532690c8df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c672892e8bcd611de996e08da51b24') in 0.064637 seconds 
+  Import took 0.085863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Pallets/Kirby tileset 1_89.asset
+  artifactKey: Guid(96f43ca8afec5a44fb69e1d97572d218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_89.asset using Guid(96f43ca8afec5a44fb69e1d97572d218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f4ff94c664ff40703ecd1e493080ed8') in 0.007546 seconds 
+  Import took 0.057066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Pallets/Kirby tileset 1_79.asset
+  artifactKey: Guid(5f5ba18449e3cb0439123295057040c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_79.asset using Guid(5f5ba18449e3cb0439123295057040c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc43a9ebb7c67545e253c9389f72cbe') in 0.016180 seconds 
+  Import took 0.099340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Pallets/Kirby tileset 1_78.asset
+  artifactKey: Guid(07d8e245811c7704fbb774f5aff1e183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_78.asset using Guid(07d8e245811c7704fbb774f5aff1e183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da95c917f4bf58e2edab66c0fc701fab') in 0.007886 seconds 
+  Import took 0.085388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Pallets/Kirby tileset 1_97.asset
+  artifactKey: Guid(e5c29a37f31390540938ee64a4df0f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_97.asset using Guid(e5c29a37f31390540938ee64a4df0f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38cc24e714dd842353e4f5eb81c42bba') in 0.007394 seconds 
+  Import took 0.034123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Pallets/Kirby tileset 1_129.asset
+  artifactKey: Guid(93c7515f2d98f6446814c5e9f07eed00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_129.asset using Guid(93c7515f2d98f6446814c5e9f07eed00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb2531d8fc468e208cab029243e0978d') in 0.007595 seconds 
+  Import took 0.030391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Pallets/Kirby tileset 1_131.asset
+  artifactKey: Guid(50fa21563461dd643b6e2829ab8480c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_131.asset using Guid(50fa21563461dd643b6e2829ab8480c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '967697700dd69d8b33cadfca74dabbda') in 0.007229 seconds 
+  Import took 0.021412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Pallets/Kirby tileset 1_126.asset
+  artifactKey: Guid(b71e0e3b8f52c5b4aaf72106c2803738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_126.asset using Guid(b71e0e3b8f52c5b4aaf72106c2803738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac2cebdf0ff5b358b71572a156b9f8ff') in 0.022997 seconds 
+  Import took 0.069950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Pallets/Kirby tileset 1_125.asset
+  artifactKey: Guid(1acbb977d9045f64bb1f97ad9e3c7caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_125.asset using Guid(1acbb977d9045f64bb1f97ad9e3c7caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed18646ea060662666956f336cb4675') in 0.037311 seconds 
+  Import took 0.039847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Pallets/Kirby tileset 1_114.asset
+  artifactKey: Guid(96e5b63dcbd320f4eb49abc71b14037d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_114.asset using Guid(96e5b63dcbd320f4eb49abc71b14037d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a71dd0fb942f29bb27606215188854a6') in 0.007528 seconds 
+  Import took 0.041406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Pallets/Kirby tileset 1_150.asset
+  artifactKey: Guid(fe76299afdd156b4ca3612d5c79b1dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_150.asset using Guid(fe76299afdd156b4ca3612d5c79b1dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41ccd5f8eca5cbfa0a16f07b8576a397') in 0.040827 seconds 
+  Import took 0.043992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Pallets/Kirby tileset 1_133.asset
+  artifactKey: Guid(3c3d05ce939b1014b809da5b10d34a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_133.asset using Guid(3c3d05ce939b1014b809da5b10d34a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea06453fd39364568581480c14a8e4bc') in 0.007160 seconds 
+  Import took 0.030612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Pallets/Kirby tileset 1_151.asset
+  artifactKey: Guid(bcc6977857497be478e4679d5f346c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_151.asset using Guid(bcc6977857497be478e4679d5f346c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '420eb9c262e730d645e7f05704bae209') in 0.020085 seconds 
+  Import took 0.022895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Pallets/Kirby tileset 2_8.asset
+  artifactKey: Guid(88dc37d5a31835744a795b729a31e73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_8.asset using Guid(88dc37d5a31835744a795b729a31e73b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b70f3bb9f9606f69d08e546195861968') in 0.018933 seconds 
+  Import took 0.046568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Pallets/Kirby tileset 1_158.asset
+  artifactKey: Guid(766ebf04690f6f34c83548b83839bc2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_158.asset using Guid(766ebf04690f6f34c83548b83839bc2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d217a9808f83873cd5632c0dba34bf') in 0.007844 seconds 
+  Import took 0.044090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Pallets/Kirby tileset 1_128.asset
+  artifactKey: Guid(14eaa5a88140bc644bcf239fb18882a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_128.asset using Guid(14eaa5a88140bc644bcf239fb18882a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '754ace7f4bfb97236fbe3243f9444629') in 0.011832 seconds 
+  Import took 0.114686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Pallets/Kirby tileset 2_12.asset
+  artifactKey: Guid(ce7bc7e4b5a554f4181b13daf3cf619f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_12.asset using Guid(ce7bc7e4b5a554f4181b13daf3cf619f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e45623dd8a8e978b2477224273f4c8') in 0.011445 seconds 
+  Import took 0.023831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Pallets/Kirby tileset 2_18.asset
+  artifactKey: Guid(7d70cd7458642bc4d9dee364046ac2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_18.asset using Guid(7d70cd7458642bc4d9dee364046ac2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9849c5963fe5c4203e2ad6dfe5b4278') in 0.013048 seconds 
+  Import took 0.102161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Pallets/Kirby tileset 1_134.asset
+  artifactKey: Guid(68a7d7119bbd38445a09761f771a9714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_134.asset using Guid(68a7d7119bbd38445a09761f771a9714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36fd79c7ff0eb6b9e8f76fd3cbe80137') in 0.007724 seconds 
+  Import took 0.010498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Pallets/Kirby tileset 1_139.asset
+  artifactKey: Guid(1fb54afc6f489f84184747f2b0545344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_139.asset using Guid(1fb54afc6f489f84184747f2b0545344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05505caad62e2e0f4d14244d7d619e7') in 0.007714 seconds 
+  Import took 0.030481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Pallets/Kirby tileset 1_154.asset
+  artifactKey: Guid(075d77798e955c842862923969715045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_154.asset using Guid(075d77798e955c842862923969715045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b13a6ac25a4a3602477151c1d60637') in 0.007426 seconds 
+  Import took 0.074650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Pallets/Kirby tileset 1_130.asset
+  artifactKey: Guid(e5599a47086e82646b02f3fa73887ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_130.asset using Guid(e5599a47086e82646b02f3fa73887ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3848676e961df7f939e6a59f7eb71ba0') in 0.007167 seconds 
+  Import took 0.060239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Pallets/Kirby tileset 1_115.asset
+  artifactKey: Guid(c81a70b25812e0d4f97f776ac3825026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_115.asset using Guid(c81a70b25812e0d4f97f776ac3825026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f2aaf7ad6302406fd73b4ae81b008f4') in 0.007181 seconds 
+  Import took 0.160414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Pallets/Kirby tileset 2_3.asset
+  artifactKey: Guid(b51547cb026cc244d9373b66ebfdefaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_3.asset using Guid(b51547cb026cc244d9373b66ebfdefaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d9b0b0896b4e385d5152c269735cac') in 0.013575 seconds 
+  Import took 0.029171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Pallets/Kirby tileset 2_7.asset
+  artifactKey: Guid(ad9957ec7c8dfea40827092b38bfe2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_7.asset using Guid(ad9957ec7c8dfea40827092b38bfe2d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cf1dbe9adf8a997d3196a6f6b9aba75') in 0.010292 seconds 
+  Import took 0.085934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Pallets/Kirby tileset 2_11.asset
+  artifactKey: Guid(8469828f178ef7d4795d5cb5d2839ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_11.asset using Guid(8469828f178ef7d4795d5cb5d2839ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd586fef821aedc5987b1c858bee9c465') in 0.011038 seconds 
+  Import took 0.161121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Pallets/Kirby tileset 1_94.asset
+  artifactKey: Guid(29856e4c4abd71b40bef6d1cf4da4d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_94.asset using Guid(29856e4c4abd71b40bef6d1cf4da4d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8d33476a5d59acd198467d73a7b60a') in 0.007376 seconds 
+  Import took 0.161640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Pallets/Kirby tileset 2_4.asset
+  artifactKey: Guid(c1415c15c89e4de4e887d7d7ae2e3665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_4.asset using Guid(c1415c15c89e4de4e887d7d7ae2e3665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f01ce66fdaf115801885d615c75d78bc') in 0.013590 seconds 
+  Import took 0.026586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Pallets/Kirby tileset 1_90.asset
+  artifactKey: Guid(bc38b26514ad06248940464210385454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_90.asset using Guid(bc38b26514ad06248940464210385454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47281f2a14d80e8d1f38e961a5112397') in 0.007796 seconds 
+  Import took 0.072131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Pallets/Kirby tileset 1_147.asset
+  artifactKey: Guid(32a5c6870c43e52439578bcd324d9df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_147.asset using Guid(32a5c6870c43e52439578bcd324d9df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaddbc77239ec9b344048f839450a9bb') in 0.041118 seconds 
+  Import took 0.050781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Pallets/Kirby tileset 2_0.asset
+  artifactKey: Guid(b79132af4abc22140b0c13809e1bf7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_0.asset using Guid(b79132af4abc22140b0c13809e1bf7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d70298c926762f416a71c9c4220867d') in 0.013990 seconds 
+  Import took 0.016706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Pallets/Kirby tileset 2_20.asset
+  artifactKey: Guid(06f2a8619ba07eb4ea51fdc004865e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_20.asset using Guid(06f2a8619ba07eb4ea51fdc004865e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c840cd7ef41b7509e26b6435b7fcc3e') in 0.012621 seconds 
+  Import took 0.109788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Pallets/Kirby tileset 1_159.asset
+  artifactKey: Guid(be14d9bddd5b91f468432a032cf58547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_159.asset using Guid(be14d9bddd5b91f468432a032cf58547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb411361872d7b66dcf33cd8e2d24c2d') in 0.008235 seconds 
+  Import took 0.015934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Pallets/Kirby tileset 2_21.asset
+  artifactKey: Guid(6b52a2de40fc6604a9317cac1b861635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_21.asset using Guid(6b52a2de40fc6604a9317cac1b861635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d5281da1e3e8973b98787642ac35cc9') in 0.014067 seconds 
+  Import took 0.088487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Pallets/Kirby tileset 1_106.asset
+  artifactKey: Guid(da8de1f9986f9a84cb7397c142d99583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_106.asset using Guid(da8de1f9986f9a84cb7397c142d99583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe24595324416596bf6fe3ed29146db4') in 0.036645 seconds 
+  Import took 0.064162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Pallets/Kirby tileset 1_111.asset
+  artifactKey: Guid(bbe87970a7203c04ca3f49f11b539569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_111.asset using Guid(bbe87970a7203c04ca3f49f11b539569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b171b28db39c916fe02cd3af324ad82a') in 0.009805 seconds 
+  Import took 0.120160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Pallets/Kirby tileset 1_155.asset
+  artifactKey: Guid(60c2275542d69eb41ad9c3ad5dea9fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_155.asset using Guid(60c2275542d69eb41ad9c3ad5dea9fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6827a614de5f174e5250c1b7c43de6c') in 0.007290 seconds 
+  Import took 0.073951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Pallets/Kirby tileset 1_77.asset
+  artifactKey: Guid(5771c46463614234db7e1d2a34cd6140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_77.asset using Guid(5771c46463614234db7e1d2a34cd6140) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2731f15075fe9c85c097c5714bfc4798') in 0.011225 seconds 
+  Import took 0.077938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Pallets/Kirby tileset 1_149.asset
+  artifactKey: Guid(44ad654f5f077d146add99e1bda31ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_149.asset using Guid(44ad654f5f077d146add99e1bda31ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '614505a08c23e3415fda2bc23bebfb95') in 0.011188 seconds 
+  Import took 0.045748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Pallets/Kirby tileset 1_132.asset
+  artifactKey: Guid(4ed4f4270650b4f46bb67073ab25db37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_132.asset using Guid(4ed4f4270650b4f46bb67073ab25db37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09f33a12d10411eae17a10c1d40a6b3e') in 0.007398 seconds 
+  Import took 0.022341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Pallets/Kirby tileset 1_135.asset
+  artifactKey: Guid(c99cf1553f7ed874c9dcd8d811f11357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_135.asset using Guid(c99cf1553f7ed874c9dcd8d811f11357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e17b22832982f7060649c0aa98aadc0d') in 0.007391 seconds 
+  Import took 0.051655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Pallets/Kirby tileset 1_91.asset
+  artifactKey: Guid(72d77a0546a3f8b49ae756df6bf55a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_91.asset using Guid(72d77a0546a3f8b49ae756df6bf55a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ddab513d6afaf383401310f0064326') in 0.007549 seconds 
+  Import took 0.010159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Pallets/Kirby tileset 2_17.asset
+  artifactKey: Guid(d03d9ee9e6aef394cbeda0430d984f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_17.asset using Guid(d03d9ee9e6aef394cbeda0430d984f42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e52888a941143ae81b619014ab02be') in 0.013253 seconds 
+  Import took 0.016088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Pallets/Kirby tileset 2_13.asset
+  artifactKey: Guid(780a633693c19394b81415efee09dc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_13.asset using Guid(780a633693c19394b81415efee09dc80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08dcb69df1f0ac71b185bf44ab13e05c') in 0.010577 seconds 
+  Import took 0.065411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Pallets/Kirby tileset 2_10.asset
+  artifactKey: Guid(70ce9c689c5382a44be385b79e6b7162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_10.asset using Guid(70ce9c689c5382a44be385b79e6b7162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4acf850f30c5c0905c5c476483285461') in 0.011020 seconds 
+  Import took 0.013796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Pallets/Kirby tileset 1_136.asset
+  artifactKey: Guid(ea3c525e9a68f7d4399d8224c36f72e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_136.asset using Guid(ea3c525e9a68f7d4399d8224c36f72e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8692cee6a4edd93669d03cfe84ae4dd4') in 0.007063 seconds 
+  Import took 0.068168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Pallets/Kirby tileset 2_16.asset
+  artifactKey: Guid(d64510f40e45c274a852cc604aede991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_16.asset using Guid(d64510f40e45c274a852cc604aede991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa4a8931ec94f3c54d2a88b601bfce58') in 0.013942 seconds 
+  Import took 0.017917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Pallets/Kirby tileset 2_1.asset
+  artifactKey: Guid(0c42a3c235d9c4644a4fc79d8661d3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_1.asset using Guid(0c42a3c235d9c4644a4fc79d8661d3c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6d9c3b856d9866d2c09f5bbd75683b') in 0.010591 seconds 
+  Import took 0.014208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Pallets/Kirby tileset 1_160.asset
+  artifactKey: Guid(34abc083a7aaff748a4e459c4d731e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_160.asset using Guid(34abc083a7aaff748a4e459c4d731e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cea43553e1c79e108a86b95b2bdfdba') in 0.007809 seconds 
+  Import took 0.010775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Pallets/Kirby tileset 1_88.asset
+  artifactKey: Guid(b35bcd2c6c951d74db45db15b1c5bafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_88.asset using Guid(b35bcd2c6c951d74db45db15b1c5bafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963b00c727708974fb81df12ec6f2179') in 0.011148 seconds 
+  Import took 0.013747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Pallets/Kirby tileset 1_107.asset
+  artifactKey: Guid(aa16db2624784b345aeae081ff2185ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_107.asset using Guid(aa16db2624784b345aeae081ff2185ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31a6bf47aacdb9fb09bbbc6a1f4ec80f') in 0.011616 seconds 
+  Import took 0.014155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Pallets/Kirby tileset 1_113.asset
+  artifactKey: Guid(6dfa1ba414a96b34f8a8436052e42bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_113.asset using Guid(6dfa1ba414a96b34f8a8436052e42bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c9cbfaeb8f6e97745015aa90aa8f1ff') in 0.007337 seconds 
+  Import took 0.010165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Pallets/Kirby tileset 1_123.asset
+  artifactKey: Guid(cdb1a08b0dad4f148be1ef2415fe8f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_123.asset using Guid(cdb1a08b0dad4f148be1ef2415fe8f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f797f96d70acc71efdbc29ae077a4c') in 0.034771 seconds 
+  Import took 0.112194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Pallets/Kirby tileset 1_140.asset
+  artifactKey: Guid(5316e1dcfd426e048ab2c4e51a3ff1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_140.asset using Guid(5316e1dcfd426e048ab2c4e51a3ff1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb114c3879249ba14f1ba89ea58b8221') in 0.007149 seconds 
+  Import took 0.010414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Pallets/Kirby tileset 1_157.asset
+  artifactKey: Guid(398547ed220e8ed438057a5a68001eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_157.asset using Guid(398547ed220e8ed438057a5a68001eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ab92a148a428b3dfd74f9efbf2811bb') in 0.008392 seconds 
+  Import took 0.011525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Pallets/Kirby tileset 1_87.asset
+  artifactKey: Guid(077644c1c236e7548aa4948268356875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_87.asset using Guid(077644c1c236e7548aa4948268356875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da8081038726c66fda810ec412ae3086') in 0.011679 seconds 
+  Import took 0.014300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Pallets/Kirby tileset 1_124.asset
+  artifactKey: Guid(21203a86daf7d88459c80b7a5c0ab769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_124.asset using Guid(21203a86daf7d88459c80b7a5c0ab769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd30fb74d614b6fa7db52ecc0ad8705f9') in 0.011033 seconds 
+  Import took 0.013690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Pallets/Kirby tileset 2_6.asset
+  artifactKey: Guid(92a46072f2c15e1499315cffd7b6e12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_6.asset using Guid(92a46072f2c15e1499315cffd7b6e12e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb1bf61c580e696f18a8853cdacb985') in 0.015367 seconds 
+  Import took 0.034238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Pallets/Kirby tileset 1_112.asset
+  artifactKey: Guid(236c91c49d66e14448fce2c0341a3377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_112.asset using Guid(236c91c49d66e14448fce2c0341a3377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5704f60784012c334e4c1d511696611a') in 0.007995 seconds 
+  Import took 0.039372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Pallets/Kirby tileset 1_105.asset
+  artifactKey: Guid(8ef9fe6a93410d34fad849549c5fbb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_105.asset using Guid(8ef9fe6a93410d34fad849549c5fbb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7cf199f515afd435a5d54f8ef0e9795') in 0.041677 seconds 
+  Import took 0.107355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Pallets/Kirby tileset 1_156.asset
+  artifactKey: Guid(77b6d4d447971b443a788666cf34f9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_156.asset using Guid(77b6d4d447971b443a788666cf34f9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dd3793febb7bf85788073d9dedb4c47') in 0.007292 seconds 
+  Import took 0.009797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Pallets/Kirby tileset 1_146.asset
+  artifactKey: Guid(46c3d9dcf828e734fbe4bb73811a7131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_146.asset using Guid(46c3d9dcf828e734fbe4bb73811a7131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4d14c6d912cd6fb7ea09f0eacb91e8') in 0.011411 seconds 
+  Import took 0.019808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Pallets/Kirby tileset 1_92.asset
+  artifactKey: Guid(23f6d0067f6b6a649baf25cb33725818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_92.asset using Guid(23f6d0067f6b6a649baf25cb33725818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b747e0f338996f6b2655439f5621a1a') in 0.019924 seconds 
+  Import took 0.039817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Pallets/Kirby tileset 2_14.asset
+  artifactKey: Guid(454be4924f3fc704b9d824246a54db86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_14.asset using Guid(454be4924f3fc704b9d824246a54db86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa62435b88e62e9d77bf2bd9d7629faf') in 0.015295 seconds 
+  Import took 0.018114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Pallets/Kirby tileset 1_163.asset
+  artifactKey: Guid(83565b3ed4211b04684fcd8036333314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_163.asset using Guid(83565b3ed4211b04684fcd8036333314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2793013cab8549b39253704e355fe7ad') in 0.007444 seconds 
+  Import took 0.010604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Pallets/Kirby tileset 2_19.asset
+  artifactKey: Guid(17d5dd9c4e8d9c64582cf4b4f219d70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_19.asset using Guid(17d5dd9c4e8d9c64582cf4b4f219d70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db78e7c81ef795adb673be2e837ca152') in 0.015837 seconds 
+  Import took 0.135505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Pallets/Kirby tileset 1_153.asset
+  artifactKey: Guid(2976711b77228d94083452075792b8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_153.asset using Guid(2976711b77228d94083452075792b8a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bfefc35f0e3eef22c44107be92b0c8f') in 0.007021 seconds 
+  Import took 0.041363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Pallets/Kirby tileset 1_96.asset
+  artifactKey: Guid(befca13bde40f33479736836b5a14f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_96.asset using Guid(befca13bde40f33479736836b5a14f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144b447315fce431a778481665a16c64') in 0.007433 seconds 
+  Import took 0.010346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Pallets/Kirby tileset 2_5.asset
+  artifactKey: Guid(c3ba80b5ecd8ee647aedd03ea6ee6055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_5.asset using Guid(c3ba80b5ecd8ee647aedd03ea6ee6055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34fcb2c3836352ea448a3b308724f9b2') in 0.012881 seconds 
+  Import took 0.016046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Pallets/Kirby tileset 1_108.asset
+  artifactKey: Guid(ff3a2e879c34c7f4a91aa889f0501b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_108.asset using Guid(ff3a2e879c34c7f4a91aa889f0501b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a47f234019db932a31864eacfe1f2e1') in 0.032736 seconds 
+  Import took 0.035293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Pallets/Kirby tileset 1_161.asset
+  artifactKey: Guid(e731d0b6f3c493d4bb33306f4247ebe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_161.asset using Guid(e731d0b6f3c493d4bb33306f4247ebe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e070998bd62d471068f394447f75862b') in 0.007974 seconds 
+  Import took 0.010736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Pallets/Kirby tileset 1_162.asset
+  artifactKey: Guid(eb561d7f172cc834799287df6b40f594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_162.asset using Guid(eb561d7f172cc834799287df6b40f594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1e7d64cde842fb35943c1df4b9ea7f') in 0.007668 seconds 
+  Import took 0.010423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Pallets/Kirby tileset 1_95.asset
+  artifactKey: Guid(05a05c81c599c6c458323d845eda6be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_95.asset using Guid(05a05c81c599c6c458323d845eda6be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0087f41a2b7a60bc69974c6084e8de3') in 0.007159 seconds 
+  Import took 0.009725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Pallets/Kirby tileset 2_9.asset
+  artifactKey: Guid(1a4dde19f3a3284479b688368a324ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_9.asset using Guid(1a4dde19f3a3284479b688368a324ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb3363aff77113e83a36d6528f03660') in 0.013339 seconds 
+  Import took 0.044189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Pallets/Kirby tileset 1_127.asset
+  artifactKey: Guid(ae1f0963131bae34c8462f4e74121ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_127.asset using Guid(ae1f0963131bae34c8462f4e74121ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9c75fef1bd482f0c8375e262f9f8ec8') in 0.015252 seconds 
+  Import took 0.102356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Pallets/Kirby tileset 2_30.asset
+  artifactKey: Guid(360435d55739fc54eb2c81bf1c5c748e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_30.asset using Guid(360435d55739fc54eb2c81bf1c5c748e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59e1be262e37b352a79b790d8ede3499') in 0.012612 seconds 
+  Import took 0.015528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Pallets/Kirby tileset 2_29.asset
+  artifactKey: Guid(02d067afaa41ea04d9f542d863dad63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_29.asset using Guid(02d067afaa41ea04d9f542d863dad63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e5b28de5aae6c1e761c7e6925919d8') in 0.009680 seconds 
+  Import took 0.012732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Pallets/Kirby tileset 2_22.asset
+  artifactKey: Guid(a7a07ff4fc5982043a06e0a3a22f713b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_22.asset using Guid(a7a07ff4fc5982043a06e0a3a22f713b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9bc930f37a01809a3d6c4530919fdf') in 0.013468 seconds 
+  Import took 0.069302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Pallets/Kirby tileset 2_34.asset
+  artifactKey: Guid(963ac7bd835cbb249b4fafa743ea9b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_34.asset using Guid(963ac7bd835cbb249b4fafa743ea9b56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ef74de2e376c14f84e14ceb0615733') in 0.011033 seconds 
+  Import took 0.076052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Pallets/Kirby tileset 2_23.asset
+  artifactKey: Guid(7b0bffa5fc100b04a97ba96b2fd5cc3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_23.asset using Guid(7b0bffa5fc100b04a97ba96b2fd5cc3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'defe022012691347263b02fa485fd746') in 0.014294 seconds 
+  Import took 0.017166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Pallets/Kirby tileset 2_36.asset
+  artifactKey: Guid(8afafa1795ddb8949a5e5fc542cbd16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_36.asset using Guid(8afafa1795ddb8949a5e5fc542cbd16a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a417789d243e0fd9c38dfc0c2a29da80') in 0.009845 seconds 
+  Import took 0.040777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Pallets/Kirby tileset 2_27.asset
+  artifactKey: Guid(a5844b16632d2254e9eb197b710f0ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_27.asset using Guid(a5844b16632d2254e9eb197b710f0ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41940fca0d8debf975aab016e049072b') in 0.010570 seconds 
+  Import took 0.013517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Pallets/Kirby tileset 2_28.asset
+  artifactKey: Guid(fbc6bce8849ce694f93ed3818673ecc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_28.asset using Guid(fbc6bce8849ce694f93ed3818673ecc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002d1bc4998d34764660cad8635b6668') in 0.009394 seconds 
+  Import took 0.025170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Pallets/Kirby tileset 2_24.asset
+  artifactKey: Guid(3252e0fb5d0606e43a67fedbc98b3715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_24.asset using Guid(3252e0fb5d0606e43a67fedbc98b3715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab9346e79cf9addf74df20ae8747a02') in 0.010097 seconds 
+  Import took 0.104824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Pallets/Kirby tileset 2_31.asset
+  artifactKey: Guid(5ab0b2aaa34cc384ebdfb9893fd9117d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_31.asset using Guid(5ab0b2aaa34cc384ebdfb9893fd9117d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '597e86dd36a14745fda3a77e7c967c89') in 0.010995 seconds 
+  Import took 0.043665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Pallets/Kirby tileset 2_32.asset
+  artifactKey: Guid(dc3e85c84cc2af64681ce69debbbf041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_32.asset using Guid(dc3e85c84cc2af64681ce69debbbf041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e7ca258b3a383e3f461cb46fe48e7a6') in 0.011219 seconds 
+  Import took 0.030739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Pallets/Kirby tileset 2_26.asset
+  artifactKey: Guid(3b2b15e0b0776e342b3c2696b991bb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_26.asset using Guid(3b2b15e0b0776e342b3c2696b991bb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0c313aa5445beebcb9eee910536922f') in 0.011060 seconds 
+  Import took 0.016750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Pallets/Kirby tileset 2_33.asset
+  artifactKey: Guid(f75791965ed1454449ab4d40cd0a91c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_33.asset using Guid(f75791965ed1454449ab4d40cd0a91c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8363acbe898b8aeade5c7e6928ae0a31') in 0.009704 seconds 
+  Import took 0.107389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Pallets/Kirby tileset 2_35.asset
+  artifactKey: Guid(0060c102945cbfb4cabff7e5e83bec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_35.asset using Guid(0060c102945cbfb4cabff7e5e83bec35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '807dd2bbb0f9d4a02f64e2fa99e42836') in 0.011169 seconds 
+  Import took 0.014155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Pallets/Kirby tileset 2_25.asset
+  artifactKey: Guid(7f6f9e6a628ef93489083d2e66130984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_25.asset using Guid(7f6f9e6a628ef93489083d2e66130984) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '430f479fa27a013b300397f5b871620d') in 0.009641 seconds 
+  Import took 0.012714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Pallets/Kirby tileset 1_93.asset
+  artifactKey: Guid(9b8723b39284e5a4891abdb29403299e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_93.asset using Guid(9b8723b39284e5a4891abdb29403299e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c217f5901a1a7271fabbde50bfefeb75') in 0.011410 seconds 
+  Import took 0.038338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Pallets/Kirby tileset 1_152.asset
+  artifactKey: Guid(3250482a438cbfa469aff8ec1add9046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_152.asset using Guid(3250482a438cbfa469aff8ec1add9046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ad961873ba921c430f1965a22537f4') in 0.007562 seconds 
+  Import took 0.010310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Pallets/Kirby tileset 2_2.asset
+  artifactKey: Guid(3cfe1bcbb29e6c74fbf64606a5fa4f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_2.asset using Guid(3cfe1bcbb29e6c74fbf64606a5fa4f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '573dec0bb96873f68658b8170f10033c') in 0.012752 seconds 
+  Import took 0.015686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Pallets/Kirby tileset 2_15.asset
+  artifactKey: Guid(209541c64d8a81e43b36b1ae84bb8046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_15.asset using Guid(209541c64d8a81e43b36b1ae84bb8046) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e41f561d61b4f8e0a328925d8dd49004') in 0.009951 seconds 
+  Import took 0.013493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Pallets/Kirby tileset 1_110.asset
+  artifactKey: Guid(02c59db0f0563c344a63e02f14ac20b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_110.asset using Guid(02c59db0f0563c344a63e02f14ac20b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f6f67f206bad5ef249ebe159dda4553') in 0.007238 seconds 
+  Import took 0.020967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Pallets/Kirby tileset 1_86.asset
+  artifactKey: Guid(e2989eb46b891744fa9671c519a6e693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_86.asset using Guid(e2989eb46b891744fa9671c519a6e693) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6a173ffbe7e890f9b49646a3a01847') in 0.011451 seconds 
+  Import took 0.014203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Pallets/Kirby tileset 1_148.asset
+  artifactKey: Guid(f353ff254ea87f74a99ca7b0204c498a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_148.asset using Guid(f353ff254ea87f74a99ca7b0204c498a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5316b400368eb215e15a20105f032f72') in 0.011767 seconds 
+  Import took 0.014368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Pallets/Kirby tileset 1_109.asset
+  artifactKey: Guid(abe31148100d06c4b825e71db1159fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 1_109.asset using Guid(abe31148100d06c4b825e71db1159fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17edb90cc19e2234c5b00f61815a0c65') in 0.010949 seconds 
+  Import took 0.013585 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004813 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.869 seconds
+Domain Reload Profiling:
+	ReloadAssembly (870ms)
+		BeginReloadAssembly (107ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (712ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (245ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (256ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (65ms)
+				ProcessInitializeOnLoadAttributes (170ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2186 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.5 MB.
+System memory in use after: 98.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2669.
+Total: 2.347800 ms (FindLiveObjects: 0.154400 ms CreateObjectMapping: 0.070300 ms MarkObjects: 2.109500 ms  DeleteObjects: 0.012800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8.203004 seconds.
+  path: Assets/Pallets/Kirby tileset 2_89.asset
+  artifactKey: Guid(6dc9bd66c7db1824bb278083823af7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_89.asset using Guid(6dc9bd66c7db1824bb278083823af7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6222001808466bacecc8217697c854c5') in 0.040271 seconds 
+  Import took 0.623036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Pallets/Kirby tileset 2_108.asset
+  artifactKey: Guid(ccfea9caf667fd64194ebd23a8dab027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_108.asset using Guid(ccfea9caf667fd64194ebd23a8dab027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b6fee276c8c00205819137c61d7180d') in 0.016451 seconds 
+  Import took 0.723282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Pallets/Kirby tileset 2_50.asset
+  artifactKey: Guid(65d311b99af6c6340bcb09168a878f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_50.asset using Guid(65d311b99af6c6340bcb09168a878f78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62bfc552f62e44c4808f5d9cfa7b002') in 0.012062 seconds 
+  Import took 0.105313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Pallets/Kirby tileset 2_52.asset
+  artifactKey: Guid(d775c0224146f2542802870b84d67066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_52.asset using Guid(d775c0224146f2542802870b84d67066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd719a1f493ad1eb7386c7bf6f9493b52') in 0.010878 seconds 
+  Import took 0.045250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Pallets/Kirby tileset 2_40.asset
+  artifactKey: Guid(aff558689fdfa3b49b63ac555dbc5f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_40.asset using Guid(aff558689fdfa3b49b63ac555dbc5f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aff2f8f69552f1ac44a46c6736e8f133') in 0.015116 seconds 
+  Import took 0.017855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Pallets/Kirby tileset 2_48.asset
+  artifactKey: Guid(a17371d7f269ab04381427d8ae635c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_48.asset using Guid(a17371d7f269ab04381427d8ae635c61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e46f3c9cdbc3dd47d7e9221c23571a') in 0.014678 seconds 
+  Import took 0.054725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Pallets/Kirby tileset 2_107.asset
+  artifactKey: Guid(6f96b0484b9f2a04eaf5f9a187136a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_107.asset using Guid(6f96b0484b9f2a04eaf5f9a187136a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95cac58dfe40aee90b2d43076639e75e') in 0.013505 seconds 
+  Import took 0.017885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Pallets/Kirby tileset 2_96.asset
+  artifactKey: Guid(05f29db4196fde4499363f75c2602a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_96.asset using Guid(05f29db4196fde4499363f75c2602a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6843fbef8789c49cf24e63bddabccfb') in 0.014653 seconds 
+  Import took 0.017633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Pallets/Kirby tileset 2_78.asset
+  artifactKey: Guid(c65add15f21088245a35a4670e3149a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_78.asset using Guid(c65add15f21088245a35a4670e3149a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '521ae42b4c5b636c56e369c11457a2a5') in 0.012512 seconds 
+  Import took 0.117509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Pallets/Kirby tileset 2_95.asset
+  artifactKey: Guid(b89076f9bc9ad0f49ba0629e804fc1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_95.asset using Guid(b89076f9bc9ad0f49ba0629e804fc1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8287b69b2597bfdc9e921952183d6c2') in 0.015360 seconds 
+  Import took 0.018295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Pallets/Kirby tileset 2_84.asset
+  artifactKey: Guid(ed3870120dc106043a780b34282796d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_84.asset using Guid(ed3870120dc106043a780b34282796d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b069de08f79a7eccf19e8a252bd38fec') in 0.010130 seconds 
+  Import took 0.013347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Pallets/Kirby tileset 2_104.asset
+  artifactKey: Guid(5c37e2519e560154cac5562b3dd16ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_104.asset using Guid(5c37e2519e560154cac5562b3dd16ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa57b72be54cbcb711b81caf0fa9205c') in 0.012821 seconds 
+  Import took 0.017014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Pallets/Kirby tileset 2_75.asset
+  artifactKey: Guid(457f893af3d5cf64db44e62838781f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_75.asset using Guid(457f893af3d5cf64db44e62838781f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec7b2c9a18eedfb53ed760b36bc988eb') in 0.015549 seconds 
+  Import took 0.075252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Pallets/Kirby tileset 2_99.asset
+  artifactKey: Guid(4b2e7629804ca5d459ab87e98fee14fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_99.asset using Guid(4b2e7629804ca5d459ab87e98fee14fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a873f00d1205db6facb9e9524f5cddd') in 0.013718 seconds 
+  Import took 0.016338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Pallets/Kirby tileset 2_71.asset
+  artifactKey: Guid(b54132438653d3546b9a8a910d6511ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_71.asset using Guid(b54132438653d3546b9a8a910d6511ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c248e2a8c93dec917b41645a5bd8e243') in 0.010692 seconds 
+  Import took 0.013700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Pallets/Kirby tileset 2_77.asset
+  artifactKey: Guid(c917d72bbbc7b504d8cfac6eb9385993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_77.asset using Guid(c917d72bbbc7b504d8cfac6eb9385993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc1067bbed55913da73746ffa000683f') in 0.011061 seconds 
+  Import took 0.014065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Pallets/Kirby tileset 2_42.asset
+  artifactKey: Guid(6dc87923fb79ea14fbe979a1b1cb28d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_42.asset using Guid(6dc87923fb79ea14fbe979a1b1cb28d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5f14adc0467cceb0ae7ada7cd352f8') in 0.009823 seconds 
+  Import took 0.083974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Pallets/Kirby tileset 2_82.asset
+  artifactKey: Guid(328e03838bffa094eaafb7d3a20b3c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_82.asset using Guid(328e03838bffa094eaafb7d3a20b3c1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '525e2a1b6fff4e28d86df6780aa0906b') in 0.013236 seconds 
+  Import took 0.015935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Pallets/Kirby tileset 2_93.asset
+  artifactKey: Guid(97e0b5f6bcf75e9448b7ee17eab81a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_93.asset using Guid(97e0b5f6bcf75e9448b7ee17eab81a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd874486f41101e8e9e698d7b3777b904') in 0.013066 seconds 
+  Import took 0.057470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Pallets/Kirby tileset 2_53.asset
+  artifactKey: Guid(da4491719d6a6474e91f0652110021ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_53.asset using Guid(da4491719d6a6474e91f0652110021ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e1f255b265d35f3039d8e623b10f32') in 0.012097 seconds 
+  Import took 0.014835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Pallets/Kirby tileset 2_65.asset
+  artifactKey: Guid(334be0df2a9d1d14bb74bd6d9d837233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_65.asset using Guid(334be0df2a9d1d14bb74bd6d9d837233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a888c8b7d70d80873afaa505340c594') in 0.012604 seconds 
+  Import took 0.015465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Pallets/Kirby tileset 2_102.asset
+  artifactKey: Guid(ddbce9fcdd96e3344be5a0b837ab19f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_102.asset using Guid(ddbce9fcdd96e3344be5a0b837ab19f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f833d527605b67886db9097b3115bf2') in 0.020621 seconds 
+  Import took 0.023578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Pallets/Kirby tileset 2_87.asset
+  artifactKey: Guid(960c1e4b63799654fa3bb3d6a9e191b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_87.asset using Guid(960c1e4b63799654fa3bb3d6a9e191b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd392debd60f2234a94d2da352239aab6') in 0.013804 seconds 
+  Import took 0.016701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Pallets/Kirby tileset 2_103.asset
+  artifactKey: Guid(6df3aa4b96017874fa690edccf097502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_103.asset using Guid(6df3aa4b96017874fa690edccf097502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ee9bb0908efc3c311745c0aaf41bb5') in 0.009867 seconds 
+  Import took 0.039940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Pallets/Kirby tileset 2_91.asset
+  artifactKey: Guid(689d4515c8acad245aeed322a26044e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_91.asset using Guid(689d4515c8acad245aeed322a26044e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d4b4ff6a744494371cc342a46168eb2') in 0.013853 seconds 
+  Import took 0.030470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Pallets/Kirby tileset 2_106.asset
+  artifactKey: Guid(d6be07b1fa8502240b8f294aded957ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_106.asset using Guid(d6be07b1fa8502240b8f294aded957ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a40e202c759de2705be55d0531774e') in 0.013109 seconds 
+  Import took 0.016223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Pallets/Kirby tileset 2_70.asset
+  artifactKey: Guid(96428f8ec58a9d84886524c4a2d61964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_70.asset using Guid(96428f8ec58a9d84886524c4a2d61964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c49ac96f820588c1d96ebc4f5b59f520') in 0.010019 seconds 
+  Import took 0.012762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Pallets/Kirby tileset 2_109.asset
+  artifactKey: Guid(b22c6ada03e468e44bf29debeaf2a0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_109.asset using Guid(b22c6ada03e468e44bf29debeaf2a0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd753a43b9d07ad4e38a965d594cbf2e3') in 0.015742 seconds 
+  Import took 0.018799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Pallets/Kirby tileset 2_41.asset
+  artifactKey: Guid(d6fcc63974afb4241966f14a17294fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_41.asset using Guid(d6fcc63974afb4241966f14a17294fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b82598941406b1d7461795cd2108932a') in 0.013908 seconds 
+  Import took 0.033459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Pallets/Kirby tileset 2_100.asset
+  artifactKey: Guid(cbdb10aaaacde3d4dbc7b92c7d11d185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_100.asset using Guid(cbdb10aaaacde3d4dbc7b92c7d11d185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a6ba15d835886ba1f435cbbad27f00a') in 0.013259 seconds 
+  Import took 0.016037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Pallets/Kirby tileset 2_85.asset
+  artifactKey: Guid(6867394f2f7e366438758473e0c0bb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_85.asset using Guid(6867394f2f7e366438758473e0c0bb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddcc33fedb0c74089bcb62df833133af') in 0.009984 seconds 
+  Import took 0.013106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Pallets/Kirby tileset 2_54.asset
+  artifactKey: Guid(0db947220a7a3bf489041ed01476e0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_54.asset using Guid(0db947220a7a3bf489041ed01476e0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53beade5cfc8cbf27f4e3fd0571caf9') in 0.009507 seconds 
+  Import took 0.082632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Pallets/Kirby tileset 2_105.asset
+  artifactKey: Guid(e657e1c37449a1f46aa4454d262494a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_105.asset using Guid(e657e1c37449a1f46aa4454d262494a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e8d8f2a08ff8a3137d9600ec42d920') in 0.011994 seconds 
+  Import took 0.014913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Pallets/Kirby tileset 2_51.asset
+  artifactKey: Guid(6380a88beda2a8b449e6d2984a22f1ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_51.asset using Guid(6380a88beda2a8b449e6d2984a22f1ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe862728a0a792914eee6b1e50a9926') in 0.009952 seconds 
+  Import took 0.060648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Pallets/Kirby tileset 2_68.asset
+  artifactKey: Guid(6410aff24e3a4f84aa6eba57c1e9e98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_68.asset using Guid(6410aff24e3a4f84aa6eba57c1e9e98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c01c41c30ed8933c45620c43bee0803f') in 0.010227 seconds 
+  Import took 0.013135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Pallets/Kirby tileset 2_90.asset
+  artifactKey: Guid(33a7745e4464fa84a953192748f268a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_90.asset using Guid(33a7745e4464fa84a953192748f268a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a91c10766adc59b9f8a2aea29d391965') in 0.012571 seconds 
+  Import took 0.015317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Pallets/Kirby tileset 2_66.asset
+  artifactKey: Guid(45b2b3f92b922274784fcf1699ec9013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_66.asset using Guid(45b2b3f92b922274784fcf1699ec9013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da3526b6eaf2b036b18ae75cd6ad441c') in 0.015917 seconds 
+  Import took 0.018715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Pallets/Kirby tileset 2_74.asset
+  artifactKey: Guid(cfe1e5f76b7831b4c9d8d782ddf56235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_74.asset using Guid(cfe1e5f76b7831b4c9d8d782ddf56235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8dd1c9f76bdef3c5741168950b18134') in 0.014260 seconds 
+  Import took 0.016943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Pallets/Kirby tileset 2_92.asset
+  artifactKey: Guid(e6228b1d90ef5b34caa3121bf0a82d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_92.asset using Guid(e6228b1d90ef5b34caa3121bf0a82d58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc268a952cd1f00fb9bfcb8d3845f86') in 0.014218 seconds 
+  Import took 0.282650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Pallets/Kirby tileset 2_72.asset
+  artifactKey: Guid(c1abb974fbaabe746b1d5a34a30b2492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_72.asset using Guid(c1abb974fbaabe746b1d5a34a30b2492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e4423194608a599ccbbba891d11cd79') in 0.014621 seconds 
+  Import took 0.017246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Pallets/Kirby tileset 2_63.asset
+  artifactKey: Guid(d193a5c0637f0234f8156e1b71cfa01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_63.asset using Guid(d193a5c0637f0234f8156e1b71cfa01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f96c3075d431da53dad0484d1cdd0817') in 0.010709 seconds 
+  Import took 0.013615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Pallets/Kirby tileset 2_56.asset
+  artifactKey: Guid(df7ec9212955e534ab8678516d253e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_56.asset using Guid(df7ec9212955e534ab8678516d253e13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '445d0357798de02a63b9d2b87352b929') in 0.038841 seconds 
+  Import took 0.101005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Pallets/Kirby tileset 2_101.asset
+  artifactKey: Guid(da9a38436ccedd149950d93b85a3240e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_101.asset using Guid(da9a38436ccedd149950d93b85a3240e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38eb31561f6d8264d754d9d6d205fed0') in 0.011430 seconds 
+  Import took 0.014120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Pallets/Kirby tileset 2_45.asset
+  artifactKey: Guid(998535edfe871f945978c8bfe804389b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_45.asset using Guid(998535edfe871f945978c8bfe804389b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd46c4f857ec14bb8e57511b3171f5d66') in 0.013437 seconds 
+  Import took 0.016312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Pallets/Kirby tileset 2_49.asset
+  artifactKey: Guid(fed35f5ec956e0042bbdbb5db3edd7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_49.asset using Guid(fed35f5ec956e0042bbdbb5db3edd7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54861b2e316f8c8e3370102aaffddb44') in 0.011098 seconds 
+  Import took 0.023198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Pallets/Kirby tileset 2_58.asset
+  artifactKey: Guid(d2396661a79c5ae43973a77f0e48283e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_58.asset using Guid(d2396661a79c5ae43973a77f0e48283e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '831028ad48308663abd987eb067c5374') in 0.009401 seconds 
+  Import took 0.012950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Pallets/Kirby tileset 2_60.asset
+  artifactKey: Guid(6eb4f60b6c6cbb643aa1123b670d5ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_60.asset using Guid(6eb4f60b6c6cbb643aa1123b670d5ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d44b84a5ed43b9d8069b493071560d3') in 0.012962 seconds 
+  Import took 0.050481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Pallets/Kirby tileset 2_46.asset
+  artifactKey: Guid(ef7462676670a954ab8831fb4ceb48af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_46.asset using Guid(ef7462676670a954ab8831fb4ceb48af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a66479bb35cd79a39fd49161292ac41') in 0.014474 seconds 
+  Import took 0.048214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Pallets/Kirby tileset 2_47.asset
+  artifactKey: Guid(3a0613334e271e44e8f68d0cf8ecf59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_47.asset using Guid(3a0613334e271e44e8f68d0cf8ecf59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '703fed17ab334a2943804b0c8e0dce8c') in 0.014818 seconds 
+  Import took 0.017410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Pallets/Kirby tileset 2_57.asset
+  artifactKey: Guid(1d1eb79cf4dbccb449ec888541ae0eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_57.asset using Guid(1d1eb79cf4dbccb449ec888541ae0eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2b117068480bcebcbf1c6cea76d8e19') in 0.013330 seconds 
+  Import took 0.016230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Pallets/Kirby tileset 2_59.asset
+  artifactKey: Guid(522aeb82bb19e534a8e90b6ddcd2ad12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_59.asset using Guid(522aeb82bb19e534a8e90b6ddcd2ad12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '223010eee44bad78bd63e0fda9e794af') in 0.010015 seconds 
+  Import took 0.013183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Pallets/Kirby tileset 2_86.asset
+  artifactKey: Guid(2c8415da9580fb54a98eccdde8bb1689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_86.asset using Guid(2c8415da9580fb54a98eccdde8bb1689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aff34b0e1843c6e4ac4d0be5d3b8fa55') in 0.010472 seconds 
+  Import took 0.013372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Pallets/Kirby tileset 2_76.asset
+  artifactKey: Guid(f948912afe1a1f3498329c1e26e415d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_76.asset using Guid(f948912afe1a1f3498329c1e26e415d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f598d2a45d6e184def12c47a9b62f2b') in 0.010240 seconds 
+  Import took 0.013401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Pallets/Kirby tileset 2_55.asset
+  artifactKey: Guid(6c2d2c8db364e944b984e5cae5613d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_55.asset using Guid(6c2d2c8db364e944b984e5cae5613d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3d74a38ea73dade13bb21f697f7060') in 0.012592 seconds 
+  Import took 0.020160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Pallets/Kirby tileset 2_62.asset
+  artifactKey: Guid(a92a35f2967e8204a98d9339fa13dd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_62.asset using Guid(a92a35f2967e8204a98d9339fa13dd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3344f3b8941fdfa62480f78759cb0e8b') in 0.010496 seconds 
+  Import took 0.020962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Pallets/Kirby tileset 2_61.asset
+  artifactKey: Guid(c0753f704cff23547830820c55a540a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_61.asset using Guid(c0753f704cff23547830820c55a540a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3d4f0c15f8eb7200d3a1420fb393012') in 0.010078 seconds 
+  Import took 0.012991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Pallets/Kirby tileset 2_38.asset
+  artifactKey: Guid(bf6bfd91025f15e4ea36d3d97b8cad5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_38.asset using Guid(bf6bfd91025f15e4ea36d3d97b8cad5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3abc5a0cfd9bb5066b3e01b522b0dffd') in 0.013347 seconds 
+  Import took 0.016231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Pallets/Kirby tileset 2_37.asset
+  artifactKey: Guid(6b4ffec1a78aae04983059c7d95f4d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_37.asset using Guid(6b4ffec1a78aae04983059c7d95f4d9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4e5a3857a067a3f468414e593544867') in 0.013915 seconds 
+  Import took 0.016655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Pallets/Kirby tileset 2_67.asset
+  artifactKey: Guid(c69d741d35097834fbb71b16ef2a1def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_67.asset using Guid(c69d741d35097834fbb71b16ef2a1def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab7af2dd94e5cb0a2f2e6eb415a941f6') in 0.012513 seconds 
+  Import took 0.015647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Pallets/Kirby tileset 2_80.asset
+  artifactKey: Guid(f6d271e859145f24d8123e5af6951faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_80.asset using Guid(f6d271e859145f24d8123e5af6951faf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398141b7c444d06b759b37137a576a62') in 0.013345 seconds 
+  Import took 0.043440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Pallets/Kirby tileset 2_43.asset
+  artifactKey: Guid(e83984aca9ef94e49932f81bf52b8082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_43.asset using Guid(e83984aca9ef94e49932f81bf52b8082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02371b84b731bed3d81d3b0cd4f37beb') in 0.013206 seconds 
+  Import took 0.015895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Pallets/Kirby tileset 2_39.asset
+  artifactKey: Guid(6e64daaa1da39f24983b32b920a30197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_39.asset using Guid(6e64daaa1da39f24983b32b920a30197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2976bb91b695ca9ff5df2b3403c77012') in 0.013062 seconds 
+  Import took 0.015858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Pallets/Kirby tileset 2_94.asset
+  artifactKey: Guid(57785eddd9add534ca7454d3818ce803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_94.asset using Guid(57785eddd9add534ca7454d3818ce803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c8190b72de42f8d43fa6fc02ee42925') in 0.013022 seconds 
+  Import took 0.016048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Pallets/Kirby tileset 2_88.asset
+  artifactKey: Guid(222a68c1ebd8a0c4b91c5f846863bf2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_88.asset using Guid(222a68c1ebd8a0c4b91c5f846863bf2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '873dd216cee44c3a14777f4aae107252') in 0.010694 seconds 
+  Import took 0.013670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Pallets/Kirby tileset 2_83.asset
+  artifactKey: Guid(64bab8200e9b5884383846378b35e9e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_83.asset using Guid(64bab8200e9b5884383846378b35e9e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6368326353df6aad2c95968b0ff95fd') in 0.015393 seconds 
+  Import took 0.018250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Pallets/Kirby tileset 2_110.asset
+  artifactKey: Guid(712187f890da6fb498605eafbfc767a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_110.asset using Guid(712187f890da6fb498605eafbfc767a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34a2d322c34d04eca00d9ec9707039ac') in 0.013934 seconds 
+  Import took 0.016709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.391991 seconds.
+  path: Assets/Pallets/Kirby tileset 2_111.asset
+  artifactKey: Guid(d0b3eb375dea37b42a74e37231fb06b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_111.asset using Guid(d0b3eb375dea37b42a74e37231fb06b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002322e8b370d6ede4e794e42286ef9a') in 0.014036 seconds 
+  Import took 0.017074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Pallets/Kirby tileset 2_112.asset
+  artifactKey: Guid(2259ea8eec21477429db778f8255128f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_112.asset using Guid(2259ea8eec21477429db778f8255128f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df6462c0ba83ba4c5df4fa3ba5a1b33') in 0.013340 seconds 
+  Import took 0.041761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Pallets/Kirby tileset 2_114.asset
+  artifactKey: Guid(61e7db9b373f0b2418c744d90d4ac87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_114.asset using Guid(61e7db9b373f0b2418c744d90d4ac87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaab61c16bc83c8bfcf2186b95226f42') in 0.014141 seconds 
+  Import took 0.016944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Pallets/Kirby tileset 2_120.asset
+  artifactKey: Guid(bf47813d58c960147b5b20084b880772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_120.asset using Guid(bf47813d58c960147b5b20084b880772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '928fb9b9f01766e37421b7a22667331b') in 0.009729 seconds 
+  Import took 0.012858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Pallets/Kirby tileset 2_117.asset
+  artifactKey: Guid(237e31c799283ea449cce544dc6edbbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_117.asset using Guid(237e31c799283ea449cce544dc6edbbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bf5bed2fcf82afffd447f0fbd91fdc1') in 0.014185 seconds 
+  Import took 0.017044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Pallets/Kirby tileset 2_118.asset
+  artifactKey: Guid(d9cff9f6997903848b1991955fa2bce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_118.asset using Guid(d9cff9f6997903848b1991955fa2bce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '745ae16d7147fb7e2125ebfc21805c03') in 0.012824 seconds 
+  Import took 0.057587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Pallets/Kirby tileset 2_113.asset
+  artifactKey: Guid(1beb7b98923da734ea96ddeefe717fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_113.asset using Guid(1beb7b98923da734ea96ddeefe717fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e0068273b98c88eaf08eab83ede55e') in 0.013511 seconds 
+  Import took 0.016182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Pallets/Kirby tileset 2_115.asset
+  artifactKey: Guid(ad2bb88e881c9e44cab55751a297ef5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_115.asset using Guid(ad2bb88e881c9e44cab55751a297ef5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed43617f54714becb93430b369b5ec2') in 0.013485 seconds 
+  Import took 0.016566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Pallets/Kirby tileset 2_122.asset
+  artifactKey: Guid(a002b08bf1991be42b66e0daeeeb44fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_122.asset using Guid(a002b08bf1991be42b66e0daeeeb44fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275fee51fe86e4731950f8e551d16087') in 0.012581 seconds 
+  Import took 0.015583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Pallets/Kirby tileset 2_119.asset
+  artifactKey: Guid(231f71f08cc72814b884ec36f8814c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_119.asset using Guid(231f71f08cc72814b884ec36f8814c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51bc011b874a9c2a5f4ce4c0190ff6fa') in 0.013717 seconds 
+  Import took 0.016538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Pallets/Kirby tileset 2_121.asset
+  artifactKey: Guid(fda75c305df9a5f40928739101cd8ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_121.asset using Guid(fda75c305df9a5f40928739101cd8ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c65380154ee12ff3193e8da42be5ec8') in 0.010476 seconds 
+  Import took 0.013498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Pallets/Kirby tileset 2_125.asset
+  artifactKey: Guid(dfb2d57117f183f458d03b0e1953e0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_125.asset using Guid(dfb2d57117f183f458d03b0e1953e0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2203a8bdbb2d58a9f1dde7f2b614dd55') in 0.013274 seconds 
+  Import took 0.016192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Pallets/Kirby tileset 2_123.asset
+  artifactKey: Guid(cebc3b9066976ff4a9f1b58a5defdabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_123.asset using Guid(cebc3b9066976ff4a9f1b58a5defdabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f90eef05af7b1e977aa6ea38a6648cd1') in 0.013570 seconds 
+  Import took 0.016387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Pallets/Kirby tileset 2_116.asset
+  artifactKey: Guid(061fb76929f6072478b79d7a4cc6de82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_116.asset using Guid(061fb76929f6072478b79d7a4cc6de82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32cb3dd04ee5e4bd4db7fde194fe1c92') in 0.014813 seconds 
+  Import took 0.017557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Pallets/Kirby tileset 2_127.asset
+  artifactKey: Guid(7938450a778273944a2a750e30fd5582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_127.asset using Guid(7938450a778273944a2a750e30fd5582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a548ce3520613ce24d523ec466efd154') in 0.013748 seconds 
+  Import took 0.017178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014305 seconds.
+  path: Assets/Pallets/Kirby tileset 2_128.asset
+  artifactKey: Guid(a5db06d7de4700a42a323a98cef07d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_128.asset using Guid(a5db06d7de4700a42a323a98cef07d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6db135bc94eeae96ae7deb9c4ee4e5c') in 0.015753 seconds 
+  Import took 0.019371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Pallets/Kirby tileset 2_134.asset
+  artifactKey: Guid(f239956e13908594b830a12741107119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_134.asset using Guid(f239956e13908594b830a12741107119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10071aa15c517cfae205e764b44579de') in 0.017832 seconds 
+  Import took 0.034173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Pallets/Kirby tileset 2_139.asset
+  artifactKey: Guid(1cfabc5f215ed7b439a84b57023f53b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_139.asset using Guid(1cfabc5f215ed7b439a84b57023f53b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94bf0d82a68da99d8cb9b7fe955349b8') in 0.042250 seconds 
+  Import took 0.045649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Pallets/Kirby tileset 2_144.asset
+  artifactKey: Guid(d41b5353ef06a614888667f6b0d36419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_144.asset using Guid(d41b5353ef06a614888667f6b0d36419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0053befd7adfe0d39dcf4fa78f764d') in 0.012451 seconds 
+  Import took 0.015919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Pallets/Kirby tileset 2_145.asset
+  artifactKey: Guid(aa4b66fc7ef5a524d9c0a18c66674e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_145.asset using Guid(aa4b66fc7ef5a524d9c0a18c66674e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44840c3b3e49172418804b0608827a5c') in 0.011931 seconds 
+  Import took 0.014920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Pallets/Kirby tileset 2_147.asset
+  artifactKey: Guid(9041260efa101374684478367367af54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_147.asset using Guid(9041260efa101374684478367367af54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe0316d237c2e44f76fdff0bb1c02a9') in 0.013642 seconds 
+  Import took 0.016803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Pallets/Kirby tileset 2_137.asset
+  artifactKey: Guid(715a999fe6be24241b5dc3fced2276cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_137.asset using Guid(715a999fe6be24241b5dc3fced2276cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df737c3e4a1c2be3febd8b106e9035a0') in 0.012812 seconds 
+  Import took 0.015619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Pallets/Kirby tileset 2_146.asset
+  artifactKey: Guid(ea0b0292e4900fd4d833da00d157f3c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_146.asset using Guid(ea0b0292e4900fd4d833da00d157f3c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f7cf3957adcaa0a0a68f769c05fece9') in 0.012689 seconds 
+  Import took 0.015504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Pallets/Kirby tileset 2_131.asset
+  artifactKey: Guid(7aa9986f855f4754a9972eb26a14c8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_131.asset using Guid(7aa9986f855f4754a9972eb26a14c8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18ce5a1df523a18ce4d905d2b3a1eb87') in 0.014070 seconds 
+  Import took 0.017246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Pallets/Kirby tileset 2_133.asset
+  artifactKey: Guid(dd233ae13606c3840bc09e15725fc1a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_133.asset using Guid(dd233ae13606c3840bc09e15725fc1a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c558fb3013999b8e14cbee5251b0dc') in 0.012465 seconds 
+  Import took 0.015337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Pallets/Kirby tileset 2_129.asset
+  artifactKey: Guid(af0d776cbe469664e9eec18cd5791b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_129.asset using Guid(af0d776cbe469664e9eec18cd5791b53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21d750f4999da67fea4be410c4107213') in 0.014942 seconds 
+  Import took 0.017713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Pallets/Kirby tileset 2_140.asset
+  artifactKey: Guid(7196285ac278f6542b6917f0b1983926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_140.asset using Guid(7196285ac278f6542b6917f0b1983926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916c8999b2b29c5cd2906a0bf69b88b6') in 0.014418 seconds 
+  Import took 0.017391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Pallets/Kirby tileset 2_136.asset
+  artifactKey: Guid(09d3b085df59b704898f5fed975634cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_136.asset using Guid(09d3b085df59b704898f5fed975634cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c10f8fa87ded012551dde81f933a1b58') in 0.013445 seconds 
+  Import took 0.016112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Pallets/Kirby tileset 2_130.asset
+  artifactKey: Guid(774133da156651a42ae62c56e66657b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_130.asset using Guid(774133da156651a42ae62c56e66657b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9eb2c7ed39442b00e0b76dc2c0c929c') in 0.014487 seconds 
+  Import took 0.017505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Pallets/Kirby tileset 2_150.asset
+  artifactKey: Guid(54864b5d80728044ca3536d252726764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_150.asset using Guid(54864b5d80728044ca3536d252726764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3d544754e5de1b8e0dfe150b8a15d1a') in 0.013527 seconds 
+  Import took 0.047257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Pallets/Kirby tileset 2_153.asset
+  artifactKey: Guid(2e486e5f946b36e4aa901b7a1cb6492e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_153.asset using Guid(2e486e5f946b36e4aa901b7a1cb6492e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e52fef8d98bda6779eaaf1174e8a8e0') in 0.014640 seconds 
+  Import took 0.046215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Pallets/Kirby tileset 2_151.asset
+  artifactKey: Guid(e659e8e219c6a064a89a501d518bc554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_151.asset using Guid(e659e8e219c6a064a89a501d518bc554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40fe60b14e201e2813b8536b069101bf') in 0.013531 seconds 
+  Import took 0.026224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Pallets/Kirby tileset 2_156.asset
+  artifactKey: Guid(701c599e3972f5f468003ab5e5ee3c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_156.asset using Guid(701c599e3972f5f468003ab5e5ee3c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '985ff178a828993256d894fd801a2182') in 0.014080 seconds 
+  Import took 0.079484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Pallets/Kirby tileset 2_163.asset
+  artifactKey: Guid(11b4455846e42e6458db5f15be8e6015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_163.asset using Guid(11b4455846e42e6458db5f15be8e6015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e794df7f984ac0594a59d254bab14d') in 0.014140 seconds 
+  Import took 0.016747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Pallets/Kirby tileset 2_169.asset
+  artifactKey: Guid(04fd89271dfa2ec49b236e0a16b88c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_169.asset using Guid(04fd89271dfa2ec49b236e0a16b88c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e1f5df2d92fc208d24408deb7902ab') in 0.013840 seconds 
+  Import took 0.016773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Pallets/Kirby tileset 2_168.asset
+  artifactKey: Guid(9afdac85c913feb4fa13ec5103d6b027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_168.asset using Guid(9afdac85c913feb4fa13ec5103d6b027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7add0ab325846a78ff5a97e5abd6aa0') in 0.012370 seconds 
+  Import took 0.015463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Pallets/Kirby tileset 2_160.asset
+  artifactKey: Guid(72037e8c9fac59349882ced5395c5034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_160.asset using Guid(72037e8c9fac59349882ced5395c5034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3609c706306ceecc09f444c94d229a53') in 0.013572 seconds 
+  Import took 0.016357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Pallets/Kirby tileset 2_154.asset
+  artifactKey: Guid(c24f297f34d90b546945896a8fd362ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_154.asset using Guid(c24f297f34d90b546945896a8fd362ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd310441114d638590a7c33faffa8feee') in 0.013424 seconds 
+  Import took 0.016436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Pallets/Kirby tileset 2_135.asset
+  artifactKey: Guid(8b9501ef8732b6349ae649652da2229e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_135.asset using Guid(8b9501ef8732b6349ae649652da2229e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721da05ca8a047b007f42ac7966a4707') in 0.015740 seconds 
+  Import took 0.041711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Pallets/Kirby tileset 2_178.asset
+  artifactKey: Guid(3276932d79a548147b5940f2e8a7d21a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_178.asset using Guid(3276932d79a548147b5940f2e8a7d21a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c301e6233c58cda325a815bcdfe88637') in 0.029287 seconds 
+  Import took 0.031982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Pallets/Post_out.asset
+  artifactKey: Guid(8f9defa295fd78742a4e19fb839ca0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Post_out.asset using Guid(8f9defa295fd78742a4e19fb839ca0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c988265f2cb56b779f51e132f60a8c91') in 0.022740 seconds 
+  Import took 0.026278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Pallets/Tree_3.asset
+  artifactKey: Guid(5d00f34cd164d5e4289a9bb0cc863738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Tree_3.asset using Guid(5d00f34cd164d5e4289a9bb0cc863738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1350c68f674f9ba85e1fa03e9aef5586') in 0.007541 seconds 
+  Import took 0.010297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Pallets/Spring_Unloaded.asset
+  artifactKey: Guid(eb2940b1c1a9492408de622a81e7e318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Spring_Unloaded.asset using Guid(eb2940b1c1a9492408de622a81e7e318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0443b8a53650d731794638ee8f25be37') in 0.012428 seconds 
+  Import took 0.015303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Pallets/Kirby tileset 2_141.asset
+  artifactKey: Guid(4a1c066191bdae3469bd1aed03ce735c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_141.asset using Guid(4a1c066191bdae3469bd1aed03ce735c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d520a8a5cf3d099b6f16e802a334c5') in 0.014429 seconds 
+  Import took 0.018361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Pallets/Kirby tileset 2_166.asset
+  artifactKey: Guid(f7de0d140e33cc245ae46b6673dd01b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_166.asset using Guid(f7de0d140e33cc245ae46b6673dd01b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef3e2936f64bc76b4e8a8f16bfaab8d') in 0.014637 seconds 
+  Import took 0.052848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Pallets/Kirby tileset 2_171.asset
+  artifactKey: Guid(6cdbc16242d0c6447a0cab2151001a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_171.asset using Guid(6cdbc16242d0c6447a0cab2151001a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b234f72f4cf8025f38688dac511e5e') in 0.012424 seconds 
+  Import took 0.015133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Pallets/Kirby tileset 2_132.asset
+  artifactKey: Guid(ca78ab8c4d3b8a44298b14763c2d1171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_132.asset using Guid(ca78ab8c4d3b8a44298b14763c2d1171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9165c55b3c383e83e021b32358d7f37') in 0.013953 seconds 
+  Import took 0.016688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Pallets/Kirby tileset 2_138.asset
+  artifactKey: Guid(8eb3439c92342644095f13fcd320d1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_138.asset using Guid(8eb3439c92342644095f13fcd320d1fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06000bb057d2bd6128b29998ca073b5a') in 0.015958 seconds 
+  Import took 0.049642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Pallets/Tree_2.asset
+  artifactKey: Guid(ae52ced87c86829458777e0f7deeae06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Tree_2.asset using Guid(ae52ced87c86829458777e0f7deeae06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91ee1cbc5d5e3e29e8988c1bb0b16f6d') in 0.007266 seconds 
+  Import took 0.010053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Pallets/Kirby tileset 2_170.asset
+  artifactKey: Guid(29bbc215dd288e145ab57a6b54b321b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_170.asset using Guid(29bbc215dd288e145ab57a6b54b321b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe1b08595230439b24c2f72b2234da3') in 0.010156 seconds 
+  Import took 0.013101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Pallets/Tree_5.asset
+  artifactKey: Guid(3296fbb29f1dc4d42a76f0de8a568392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Tree_5.asset using Guid(3296fbb29f1dc4d42a76f0de8a568392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5210577b2d4fd4d5ca9175c2d065fe5a') in 0.007608 seconds 
+  Import took 0.010841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Pallets/Kirby tileset 2_149.asset
+  artifactKey: Guid(cf8b220bfa04a044c8e3f9e01b975470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_149.asset using Guid(cf8b220bfa04a044c8e3f9e01b975470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a57cfad5038fb03d7cc8fa064328a800') in 0.013766 seconds 
+  Import took 0.017411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Pallets/Kirby tileset 2_158.asset
+  artifactKey: Guid(68a1dea55cdb3f14abe430f1e05084ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_158.asset using Guid(68a1dea55cdb3f14abe430f1e05084ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03bbcb1e0a360e8abd4ab2224b26975c') in 0.014066 seconds 
+  Import took 0.016740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Pallets/Kirby tileset 2_165.asset
+  artifactKey: Guid(6c8ab970a9f03c244bd57be5219f53a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_165.asset using Guid(6c8ab970a9f03c244bd57be5219f53a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0a1ead74e77a71606850284de88ece2') in 0.014008 seconds 
+  Import took 0.016957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Pallets/Kirby tileset 2_173.asset
+  artifactKey: Guid(18c4782ad5a6b6b43a0427f59854f269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_173.asset using Guid(18c4782ad5a6b6b43a0427f59854f269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1faf2741dd843c9220d8a27de178487a') in 0.013882 seconds 
+  Import took 0.016739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Pallets/Tree_4.asset
+  artifactKey: Guid(32c12eafbcf261f4387e62c89bce5768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Tree_4.asset using Guid(32c12eafbcf261f4387e62c89bce5768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cc3ce03383ed59f39ca10ea6bb22f6d') in 0.007517 seconds 
+  Import took 0.010773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Pallets/Kirby tileset 2_159.asset
+  artifactKey: Guid(af9cf20fbf1f6964f818458e17634332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_159.asset using Guid(af9cf20fbf1f6964f818458e17634332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc775f182c7062c993a776bdfc5dc5b9') in 0.016492 seconds 
+  Import took 0.019565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Pallets/Kirby tileset 2_172.asset
+  artifactKey: Guid(6dd3df8a0c967d94187e8fe2eb18fc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_172.asset using Guid(6dd3df8a0c967d94187e8fe2eb18fc31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2268f104e91ac4113efaa8b859081f48') in 0.014117 seconds 
+  Import took 0.016828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Pallets/Kirby tileset 2_161.asset
+  artifactKey: Guid(7b9d6856714ca6a4d97ff4545bd84322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_161.asset using Guid(7b9d6856714ca6a4d97ff4545bd84322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43b2a706b6b728a8ac6306d64e129d0c') in 0.013136 seconds 
+  Import took 0.015836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Pallets/Kirby tileset 2_148.asset
+  artifactKey: Guid(cdfa32152d3d9f34aa82f40763b9b2d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_148.asset using Guid(cdfa32152d3d9f34aa82f40763b9b2d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21e7102058df8f1d19e1d7dfc8d7d58') in 0.010332 seconds 
+  Import took 0.013440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Pallets/Kirby tileset 2_143.asset
+  artifactKey: Guid(00b3646eea2e4bf4aa2e55699153cb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_143.asset using Guid(00b3646eea2e4bf4aa2e55699153cb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1895a60508894a9f62ed6143c6f87a77') in 0.011272 seconds 
+  Import took 0.014275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Pallets/Kirby tileset 2_167.asset
+  artifactKey: Guid(05e8caae381d7964f9217d3f02427b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_167.asset using Guid(05e8caae381d7964f9217d3f02427b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b730d10f76d15c2f993fd84af7769f4') in 0.013306 seconds 
+  Import took 0.053480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Pallets/Kirby tileset 2_155.asset
+  artifactKey: Guid(8b76ad7871354844aa400a4b03c00a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_155.asset using Guid(8b76ad7871354844aa400a4b03c00a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19c0ab0b4f5ee8fe486c1f3392126946') in 0.013435 seconds 
+  Import took 0.016063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Pallets/Kirby tileset 2_179.asset
+  artifactKey: Guid(ef5f4be219d5dd34091bed1580e13c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_179.asset using Guid(ef5f4be219d5dd34091bed1580e13c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37211624141cd1ae9b865cfc86222efc') in 0.016835 seconds 
+  Import took 0.047840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Pallets/Kirby tileset 2_174.asset
+  artifactKey: Guid(ace9dd9b114abea4589c4d4ec877a7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_174.asset using Guid(ace9dd9b114abea4589c4d4ec877a7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d515fd0b7275602fd800660a7e8065') in 0.013563 seconds 
+  Import took 0.016976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Pallets/Kirby tileset 2_164.asset
+  artifactKey: Guid(085bd1fee0f049046912badbc30a8c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_164.asset using Guid(085bd1fee0f049046912badbc30a8c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b047ef1c444c851b122775d9e40fe31') in 0.012949 seconds 
+  Import took 0.046989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Pallets/Tree_6.asset
+  artifactKey: Guid(681f93aee2c99cc46861cad4bfc4fa3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Tree_6.asset using Guid(681f93aee2c99cc46861cad4bfc4fa3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351e57190c1bf3b92c3e7f0d2218282c') in 0.007520 seconds 
+  Import took 0.010176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Pallets/Kirby tileset 2_162.asset
+  artifactKey: Guid(b20f732bcbd2c3b429d50e7ac9f6b16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_162.asset using Guid(b20f732bcbd2c3b429d50e7ac9f6b16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9df2faf7b59fa02e9c8254d0e7e585aa') in 0.013499 seconds 
+  Import took 0.016344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Pallets/Kirby tileset 2_142.asset
+  artifactKey: Guid(6fc60f0bf4f54054188196ccbf0ce5c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_142.asset using Guid(6fc60f0bf4f54054188196ccbf0ce5c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff5d4ec8f2effa09e96518febc007088') in 0.014786 seconds 
+  Import took 0.017641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Pallets/New Palette.prefab
+  artifactKey: Guid(7eb2d9ec2bc67cf47a1141d761a7960f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/New Palette.prefab using Guid(7eb2d9ec2bc67cf47a1141d761a7960f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '543df3491e1608bbc93d76656440c1dd') in 0.028881 seconds 
+  Import took 0.032604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Pallets/Post_in.asset
+  artifactKey: Guid(79acd107e2981d7469699b8cb00f9c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Post_in.asset using Guid(79acd107e2981d7469699b8cb00f9c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30031228358e4e0f1fd6e64c518f153a') in 0.010592 seconds 
+  Import took 0.013324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Pallets/Tree_1.asset
+  artifactKey: Guid(8cca54a4a80f0d2478a18b5ca2ab30fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Tree_1.asset using Guid(8cca54a4a80f0d2478a18b5ca2ab30fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '165dcf304f0abb8e9f42409433b0fb74') in 0.009597 seconds 
+  Import took 0.013014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Pallets/Kirby tileset 2_177.asset
+  artifactKey: Guid(c47c5b3e213455346b973853ca81cc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_177.asset using Guid(c47c5b3e213455346b973853ca81cc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e74c7e0d3b7908d4649beed94dc464ac') in 0.014667 seconds 
+  Import took 0.017391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Pallets/Kirby tileset 2_157.asset
+  artifactKey: Guid(3a88dcb635b817c44b94fcfaa07d6ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Kirby tileset 2_157.asset using Guid(3a88dcb635b817c44b94fcfaa07d6ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7146a8c6fa3a54fd5fdf40c62fbe6968') in 0.015319 seconds 
+  Import took 0.025521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 544.875333 seconds.
+  path: Assets/Kirby tilesetTrue.png
+  artifactKey: Guid(c0cddd47d79c0544890666236877a128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tilesetTrue.png using Guid(c0cddd47d79c0544890666236877a128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1ebc5616b03f9faa03bda0bd43a820') in 0.029420 seconds 
+  Import took 0.032833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.054226 seconds.
+  path: Assets/Kirby tilesetTrue.png
+  artifactKey: Guid(c0cddd47d79c0544890666236877a128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tilesetTrue.png using Guid(c0cddd47d79c0544890666236877a128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb576bb215e17c1208b4ea522b14b2e7') in 0.014793 seconds 
+  Import took 0.018270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.550507 seconds.
+  path: Assets/Kirby tilesetTrue.png
+  artifactKey: Guid(c0cddd47d79c0544890666236877a128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tilesetTrue.png using Guid(c0cddd47d79c0544890666236877a128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '188c7187ca45b39a97eca19cd0889452') in 0.415938 seconds 
+  Import took 0.419851 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005553 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Domain Reload Profiling:
+	ReloadAssembly (842ms)
+		BeginReloadAssembly (99ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (692ms)
+			LoadAssemblies (82ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (240ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (249ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (62ms)
+				ProcessInitializeOnLoadAttributes (168ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2186 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.7 MB.
+System memory in use after: 98.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2676.
+Total: 2.373400 ms (FindLiveObjects: 0.153600 ms CreateObjectMapping: 0.079300 ms MarkObjects: 2.126600 ms  DeleteObjects: 0.013300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1104.632811 seconds.
+  path: Assets/New Palette.prefab
+  artifactKey: Guid(a2e14188a34ffe943946f84aa318f03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Palette.prefab using Guid(a2e14188a34ffe943946f84aa318f03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455904b0b3e991511abafa4804504eea') in 0.129697 seconds 
+  Import took 0.134848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.842984 seconds.
+  path: Assets/Kirby tileset true.png
+  artifactKey: Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tileset true.png using Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4750d092a2e11990afe2968547a1f70') in 0.028252 seconds 
+  Import took 0.031348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.913007 seconds.
+  path: Assets/Kirby tileset true.png
+  artifactKey: Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tileset true.png using Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1694b27826378e66fc8201dd2cbe2f3') in 0.017057 seconds 
+  Import took 0.020266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.476478 seconds.
+  path: Assets/Kirby tileset true.png
+  artifactKey: Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tileset true.png using Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a961564c400b387493dc87001e6e986') in 0.013658 seconds 
+  Import took 0.016854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.570826 seconds.
+  path: Assets/Kirby tileset true.png
+  artifactKey: Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tileset true.png using Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06930a60f4e92a1a91064e914390c067') in 0.012389 seconds 
+  Import took 0.015752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.018056 seconds.
+  path: Assets/Kirby tileset true.png
+  artifactKey: Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tileset true.png using Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51225bf04d019371cb0125c283e8a0e7') in 0.491277 seconds 
+  Import took 0.495498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.885564 seconds.
+  path: Assets/New Palette.prefab
+  artifactKey: Guid(a2e14188a34ffe943946f84aa318f03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Palette.prefab using Guid(a2e14188a34ffe943946f84aa318f03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b649d46e491c846ac2ba48883a06b08') in 0.240206 seconds 
+  Import took 0.245163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.605651 seconds.
+  path: Assets/Kirby tileset true.png
+  artifactKey: Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tileset true.png using Guid(80b05b7012710024295022c2a04a4142) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0532e238729dc44fdc04d6859ddb87fd') in 0.479448 seconds 
+  Import took 0.483220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 705.169817 seconds.
+  path: Assets/Kirby tileset test.png
+  artifactKey: Guid(e64979f980f814e4aaf25bffe7520407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tileset test.png using Guid(e64979f980f814e4aaf25bffe7520407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dfc091a402b3e944d81cf49555efea9') in 0.017027 seconds 
+  Import took 0.020555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.570895 seconds.
+  path: Assets/Kirby tileset test.png
+  artifactKey: Guid(e64979f980f814e4aaf25bffe7520407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tileset test.png using Guid(e64979f980f814e4aaf25bffe7520407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81a020a84ac8cc3fc9005d9e16f3dc12') in 0.011908 seconds 
+  Import took 0.015286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.795294 seconds.
+  path: Assets/Kirby tileset test.png
+  artifactKey: Guid(e64979f980f814e4aaf25bffe7520407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kirby tileset test.png using Guid(e64979f980f814e4aaf25bffe7520407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23fa90df5b7ce6407207ac1b38adb43d') in 0.475402 seconds 
+  Import took 0.479104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.554897 seconds.
+  path: Assets/New Palette.prefab
+  artifactKey: Guid(a2e14188a34ffe943946f84aa318f03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Palette.prefab using Guid(a2e14188a34ffe943946f84aa318f03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f1e075469b110fa89caf853d07b5db') in 0.389327 seconds 
+  Import took 0.394962 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004694 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.923 seconds
+Domain Reload Profiling:
+	ReloadAssembly (924ms)
+		BeginReloadAssembly (124ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (737ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (273ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (257ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (166ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2186 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.2 MB.
+System memory in use after: 99.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2681.
+Total: 2.424900 ms (FindLiveObjects: 0.173000 ms CreateObjectMapping: 0.078400 ms MarkObjects: 2.157300 ms  DeleteObjects: 0.015500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005005 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.879 seconds
+Domain Reload Profiling:
+	ReloadAssembly (879ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (720ms)
+			LoadAssemblies (85ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (238ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (256ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (167ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2186 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.2 MB.
+System memory in use after: 99.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2683.
+Total: 2.729900 ms (FindLiveObjects: 0.180900 ms CreateObjectMapping: 0.109400 ms MarkObjects: 2.421100 ms  DeleteObjects: 0.017700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004672 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.873 seconds
+Domain Reload Profiling:
+	ReloadAssembly (874ms)
+		BeginReloadAssembly (99ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (716ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (249ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (245ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (62ms)
+				ProcessInitializeOnLoadAttributes (164ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2186 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.2 MB.
+System memory in use after: 99.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2685.
+Total: 2.274300 ms (FindLiveObjects: 0.162900 ms CreateObjectMapping: 0.078500 ms MarkObjects: 2.019300 ms  DeleteObjects: 0.012900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004933 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.799 seconds
+Domain Reload Profiling:
+	ReloadAssembly (799ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (656ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (225ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (236ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (157ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2186 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.2 MB.
+System memory in use after: 99.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2687.
+Total: 2.519000 ms (FindLiveObjects: 0.160600 ms CreateObjectMapping: 0.071500 ms MarkObjects: 2.274200 ms  DeleteObjects: 0.012100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004937 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.806 seconds
+Domain Reload Profiling:
+	ReloadAssembly (806ms)
+		BeginReloadAssembly (92ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (663ms)
+			LoadAssemblies (80ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (227ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (238ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (158ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2186 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.2 MB.
+System memory in use after: 99.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2689.
+Total: 2.736300 ms (FindLiveObjects: 0.154600 ms CreateObjectMapping: 0.072900 ms MarkObjects: 2.486900 ms  DeleteObjects: 0.020900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
