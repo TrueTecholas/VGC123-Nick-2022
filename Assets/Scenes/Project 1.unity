@@ -219,8 +219,9 @@ GameObject:
   - component: {fileID: 577675168}
   - component: {fileID: 577675167}
   - component: {fileID: 577675171}
+  - component: {fileID: 577675172}
   m_Layer: 0
-  m_Name: Kirby walk 1
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -239,8 +240,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerSpeed: 10
-  jumpForce: 10
+  jumpForce: 5
   isGrounded: 0
+  isAttacking: 0
 --- !u!61 &577675168
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -254,10 +256,10 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.009411812, y: 0.015007257}
+  m_Offset: {x: -0.009411797, y: 0.40913597}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0.033333335, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 0.8333333, y: 0.8}
     newSize: {x: 0.25, y: 0.24}
     adaptiveTilingThreshold: 0.5
@@ -265,7 +267,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.81599855, y: 0.7739966}
+  m_Size: {x: 0.47674856, y: 0.78397447}
   m_EdgeRadius: 0
 --- !u!212 &577675169
 SpriteRenderer:
@@ -326,7 +328,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 577675166}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.1}
+  m_LocalPosition: {x: -0.086, y: -0.172, z: -0.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 114509124}
@@ -354,6 +356,25 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!95 &577675172
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 577675166}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ed05b808c9dfd29458754e3f33c4b272, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &617107222
 GameObject:
   m_ObjectHideFlags: 0

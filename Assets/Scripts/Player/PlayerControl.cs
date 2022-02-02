@@ -2,51 +2,81 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterController : MonoBehaviour
+[RequireComponent(typeof(Animator))]
+
+public class PlayerControl : MonoBehaviour
 {
     public float playerSpeed = 10;
-    public float jumpForce = 10;
-    // bool to check if player is grounded
-    public bool isGrounded;
-    // variable to cache the player's initial scale, just in case its differeny from 1,1,1
+    public float jumpForce = 7;
+    private int jumpAmount = 3;
+    private int jumpCount = 0;
+    public bool isGrounded = false;
+    public bool isAttacking = false;
+    private int movementCancel = 1;
+
     private Vector3 initialScale;
-    // Use this for initialization
+    Animator anim;
+    SpriteRenderer sr;
+
     void Start()
     {
-        // Cache the scale
+       
         initialScale = transform.localScale;
+
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        // If right arrow is "held down"
         if (Input.GetKey(KeyCode.RightArrow))
         {
             // move character to right, deltaTime is the time between frame updates
-            transform.position += playerSpeed * Vector3.right * Time.deltaTime;
+            transform.position += playerSpeed * Vector3.right * Time.deltaTime * movementCancel;
             // flip character
             transform.localScale = new Vector3(-initialScale.x, initialScale.y, initialScale.z);
             transform.localScale = new Vector3(initialScale.x, initialScale.y, initialScale.z);
         }
-        // If left arrow is "held down"
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             // move character to left, deltaTime is the time between frame 
-            transform.position += playerSpeed * Vector3.left * Time.deltaTime;
+            transform.position += playerSpeed * Vector3.left * Time.deltaTime * movementCancel;
             // change the scale back to intial so character faces the right direction
             transform.localScale = new Vector3(-initialScale.x, initialScale.y, initialScale.z);
         }
 
-        // Commented this, this is one way of checking grounded
-        //isGrounded = (GetComponent<Rigidbody2D>().velocity.y == 0);
-
-        // if up arrow is pressed and player is grounded
-        if (Input.GetKeyDown(KeyCode.UpArrow) && isGrounded)
+        if (Input.GetKeyDown(KeyCode.UpArrow) && jumpCount < jumpAmount)
+        {
+            GetComponent<Rigidbody2D>().AddForce(jumpForce * Vector3.up, ForceMode2D.Impulse);
+            jumpCount++;
+        }
+        if (Input.GetKeyDown(KeyCode.Space) && jumpCount < jumpAmount)
         {
             // Add vertical jump force
             GetComponent<Rigidbody2D>().AddForce(jumpForce * Vector3.up, ForceMode2D.Impulse);
+            jumpCount++;
         }
+        if (Input.GetKeyDown(KeyCode.LeftControl))
+        {
+            Debug.Log("Test For Attack");
+            isAttacking = true;
+            movementCancel = 0;
+        }
+        else
+        {
+            isAttacking = false;
+            movementCancel = 1;
+        }
+
+       float hinput = Input.GetAxis("Horizontal");
+        float vinput = Input.GetAxis("Vertical");
+        anim.SetFloat("xVel", Mathf.Abs(hinput));
+        anim.SetFloat("yVel", Mathf.Abs(vinput));
+        anim.SetBool("isGrounded", isGrounded);
+        anim.SetBool("isAttacking", isAttacking);
+
+
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -55,6 +85,7 @@ public class CharacterController : MonoBehaviour
         if (collision.gameObject.layer == 8)
         {
             isGrounded = true;
+            jumpCount = 0;
         }
         // 10 is enemy layer
         if (collision.collider.gameObject.layer == 10 && !isGrounded)
