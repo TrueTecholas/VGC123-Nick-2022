@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: 79d8945ec616bfb4da902ef432dce006
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3508099574967023220
+    second: Kirbt_TS_0
+  - first:
+      213: 5255108644311326086
+    second: Kirbt_TS_1
+  - first:
+      213: 7621244802895244417
+    second: Kirbt_TS_2
+  - first:
+      213: 2852512445755689475
+    second: Kirbt_TS_3
+  - first:
+      213: -336670990941442462
+    second: Kirbt_TS_4
+  - first:
+      213: -6956161999250762958
+    second: Kirbt_TS_5
+  - first:
+      213: 9142182487712326595
+    second: Kirbt_TS_6
+  - first:
+      213: -5734302588005488310
+    second: Kirbt_TS_7
+  - first:
+      213: 7022571754108400931
+    second: Kirbt_TS_8
+  - first:
+      213: -4167285880268845559
+    second: Kirbt_TS_9
+  - first:
+      213: -8752308140881847188
+    second: Kirbt_TS_10
+  - first:
+      213: 1766515866875438646
+    second: Kirbt_TS_11
+  - first:
+      213: -3571872730795864372
+    second: Kirbt_TS_12
+  - first:
+      213: -6594896371818732563
+    second: Kirbt_TS_13
+  - first:
+      213: -3426749746797748022
+    second: Kirbt_TS_14
+  - first:
+      213: 5027841775545162117
+    second: Kirbt_TS_15
+  - first:
+      213: 7967398720050256181
+    second: Kirbt_TS_16
+  - first:
+      213: -6088539732059479625
+    second: Kirbt_TS_17
+  - first:
+      213: 8589555178733203994
+    second: Kirbt_TS_18
+  - first:
+      213: -4628700309280049930
+    second: Kirbt_TS_19
+  - first:
+      213: -5212290962568594883
+    second: Kirbt_TS_20
+  - first:
+      213: -8447165513869226100
+    second: Kirbt_TS_21
+  - first:
+      213: 4497989310577445079
+    second: Kirbt_TS_22
+  - first:
+      213: -5646295552708579922
+    second: Kirbt_TS_23
+  - first:
+      213: 7268797626767827151
+    second: Kirbt_TS_24
+  - first:
+      213: 2659625310355744374
+    second: Kirbt_TS_25
+  - first:
+      213: 7778463338560262868
+    second: Kirbt_TS_26
+  - first:
+      213: 2140875469537675490
+    second: Kirbt_TS_27
+  - first:
+      213: 8081739951516049363
+    second: Kirbt_TS_28
+  - first:
+      213: 4515606997110118875
+    second: Kirbt_TS_29
+  - first:
+      213: 7969039860114595500
+    second: Kirbt_TS_30
+  - first:
+      213: -534558906014903432
+    second: Kirbt_TS_31
+  - first:
+      213: -6143807115777092998
+    second: Kirbt_TS_32
+  - first:
+      213: -6024783403622937178
+    second: Kirbt_TS_33
+  - first:
+      213: 6731175745147585743
+    second: Kirbt_TS_34
+  - first:
+      213: -6642244567476455778
+    second: Kirbt_TS_35
+  - first:
+      213: -2915785300516443892
+    second: Kirbt_TS_36
+  - first:
+      213: 2421335321451393116
+    second: Kirbt_TS_37
+  - first:
+      213: -5442730657656571327
+    second: Kirbt_TS_38
+  - first:
+      213: -9170726489945071945
+    second: Kirbt_TS_39
+  - first:
+      213: 8864248051320674894
+    second: Kirbt_TS_40
+  - first:
+      213: 5279682340657278427
+    second: Kirbt_TS_41
+  - first:
+      213: -8720207914469073751
+    second: Kirbt_TS_42
+  - first:
+      213: -6823329188464214399
+    second: Kirbt_TS_43
+  - first:
+      213: -3668091661695037417
+    second: Kirbt_TS_44
+  - first:
+      213: 2283467944156316438
+    second: Kirbt_TS_45
+  - first:
+      213: 8644441029520273597
+    second: Kirbt_TS_46
+  - first:
+      213: 3723477240258263042
+    second: Kirbt_TS_47
+  - first:
+      213: 1726528433009661278
+    second: Kirbt_TS_48
+  - first:
+      213: 2452514407656833621
+    second: Kirbt_TS_49
+  - first:
+      213: 5112024919029180287
+    second: Kirbt_TS_50
+  - first:
+      213: 8956115065953865448
+    second: Kirbt_TS_51
+  - first:
+      213: -7950527905507117779
+    second: Kirbt_TS_52
+  - first:
+      213: 191517168553591881
+    second: Kirbt_TS_53
+  - first:
+      213: 7111555453390208543
+    second: Kirbt_TS_54
+  - first:
+      213: -4723134707750021005
+    second: Kirbt_TS_55
+  - first:
+      213: 9170284201670044228
+    second: Kirbt_TS_56
+  - first:
+      213: -4404037203333300813
+    second: Kirbt_TS_57
+  - first:
+      213: -6484468031773470943
+    second: Kirbt_TS_58
+  - first:
+      213: -255062435817921004
+    second: Kirbt_TS_59
+  - first:
+      213: 7549946894932132860
+    second: Kirbt_TS_60
+  - first:
+      213: -2111879954810149802
+    second: Kirbt_TS_61
+  - first:
+      213: 6777984760584265568
+    second: Kirbt_TS_62
+  - first:
+      213: -6837316379004824783
+    second: Kirbt_TS_63
+  - first:
+      213: -160621167107148394
+    second: Kirbt_TS_64
+  - first:
+      213: 1270175078721921918
+    second: Kirbt_TS_65
+  - first:
+      213: -5102966722581637854
+    second: Kirbt_TS_66
+  - first:
+      213: 7312229162811634200
+    second: Kirbt_TS_67
+  - first:
+      213: 2839467610267648314
+    second: Kirbt_TS_68
+  - first:
+      213: -7628030854718603882
+    second: Kirbt_TS_69
+  - first:
+      213: -6448991033576751195
+    second: Kirbt_TS_70
+  - first:
+      213: 4586478062361786641
+    second: Kirbt_TS_71
+  - first:
+      213: 1871108084566427786
+    second: Kirbt_TS_72
+  - first:
+      213: 2701265732911602769
+    second: Kirbt_TS_73
+  - first:
+      213: -4991852894894136288
+    second: Kirbt_TS_74
+  - first:
+      213: -6336960853976531305
+    second: Kirbt_TS_75
+  - first:
+      213: -7819096901203576134
+    second: Kirbt_TS_76
+  - first:
+      213: -7411355158476342350
+    second: Kirbt_TS_77
+  - first:
+      213: -5484494164381766674
+    second: Kirbt_TS_78
+  - first:
+      213: -5797106980941582441
+    second: Kirbt_TS_79
+  - first:
+      213: -3896333020689813820
+    second: Kirbt_TS_80
+  - first:
+      213: -8075786429523752819
+    second: Kirbt_TS_81
+  - first:
+      213: 6235523557661344285
+    second: Kirbt_TS_82
+  - first:
+      213: -6066002600461710785
+    second: Kirbt_TS_83
+  - first:
+      213: 3549040002506611913
+    second: Kirbt_TS_84
+  - first:
+      213: -7051977409320654523
+    second: Kirbt_TS_85
+  - first:
+      213: -4618578483201359991
+    second: Kirbt_TS_86
+  - first:
+      213: -6773010657235904380
+    second: Kirbt_TS_87
+  - first:
+      213: -4897429498734704771
+    second: Kirbt_TS_88
+  - first:
+      213: -4392417364275396000
+    second: Kirbt_TS_89
+  - first:
+      213: -7091938567402207877
+    second: Kirbt_TS_90
+  - first:
+      213: -1750121105900627001
+    second: Kirbt_TS_91
+  - first:
+      213: 3622428102307670062
+    second: Kirbt_TS_92
+  - first:
+      213: 5454702407941768729
+    second: Kirbt_TS_93
+  - first:
+      213: 281741741626896676
+    second: Kirbt_TS_94
+  - first:
+      213: -4732766048976594063
+    second: Kirbt_TS_95
+  - first:
+      213: -1567753318468934653
+    second: Kirbt_TS_96
+  - first:
+      213: -3338298615771767913
+    second: Kirbt_TS_97
+  - first:
+      213: 6808241849836934551
+    second: Kirbt_TS_98
+  - first:
+      213: 7572984714648807371
+    second: Kirbt_TS_99
+  - first:
+      213: 1347171061216223209
+    second: Kirbt_TS_100
+  - first:
+      213: 5742928353023444334
+    second: Kirbt_TS_101
+  - first:
+      213: -3877518004496613364
+    second: Kirbt_TS_102
+  - first:
+      213: -7597964716168785250
+    second: Kirbt_TS_103
+  - first:
+      213: -1796153745427037268
+    second: Kirbt_TS_104
+  - first:
+      213: 3166885552498779990
+    second: Kirbt_TS_105
+  - first:
+      213: 4077640785953004563
+    second: Kirbt_TS_106
+  - first:
+      213: -2598806289666920241
+    second: Kirbt_TS_107
+  - first:
+      213: 6220175273406799315
+    second: Kirbt_TS_108
+  - first:
+      213: 4729177908338514884
+    second: Kirbt_TS_109
+  - first:
+      213: 7366529475917692471
+    second: Kirbt_TS_110
+  - first:
+      213: 2048371749695052405
+    second: Kirbt_TS_111
+  - first:
+      213: -7481570948788558438
+    second: Kirbt_TS_112
+  - first:
+      213: -8860875310500318183
+    second: Kirbt_TS_113
+  - first:
+      213: 5658412564850074565
+    second: Kirbt_TS_114
+  - first:
+      213: 6614415889508634541
+    second: Kirbt_TS_115
+  - first:
+      213: -6452109763635672167
+    second: Kirbt_TS_116
+  - first:
+      213: 9117804410460689425
+    second: Kirbt_TS_117
+  - first:
+      213: 1618054398326985274
+    second: Kirbt_TS_118
+  - first:
+      213: -4384839554925144896
+    second: Kirbt_TS_119
+  - first:
+      213: -4615242807658186148
+    second: Kirbt_TS_120
+  - first:
+      213: -1550407750486923309
+    second: Kirbt_TS_121
+  - first:
+      213: -8239112537825644259
+    second: Kirbt_TS_122
+  - first:
+      213: -8769290454584643526
+    second: Kirbt_TS_123
+  - first:
+      213: -2452965145530866355
+    second: Kirbt_TS_124
+  - first:
+      213: -8633396775606031674
+    second: Kirbt_TS_125
+  - first:
+      213: 496075662581622091
+    second: Kirbt_TS_126
+  - first:
+      213: 4379300179291056616
+    second: Kirbt_TS_127
+  - first:
+      213: -985776106768584643
+    second: Kirbt_TS_128
+  - first:
+      213: -1812599204417091191
+    second: Kirbt_TS_129
+  - first:
+      213: -556337423579661974
+    second: Kirbt_TS_130
+  - first:
+      213: -2993886648625311678
+    second: Kirbt_TS_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 23
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kirbt_TS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476bb9a0af54fa030800000000000000
+      internalID: 3508099574967023220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd2402875ede840800000000000000
+      internalID: 5255108644311326086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cecd6e4c914c960800000000000000
+      internalID: 7621244802895244417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a06a6c4f8269720800000000000000
+      internalID: 2852512445755689475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ea1ca7487e35bf0800000000000000
+      internalID: -336670990941442462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233569a548fb67f90800000000000000
+      internalID: -6956161999250762958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3e3e3098e8fde70800000000000000
+      internalID: 9142182487712326595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4964578d2aab60b0800000000000000
+      internalID: -5734302588005488310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325b25d9dcf257160800000000000000
+      internalID: 7022571754108400931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e03153293da26c0800000000000000
+      internalID: -4167285880268845559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c5af91e1e898680800000000000000
+      internalID: -8752308140881847188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636a33f42dce38810800000000000000
+      internalID: 1766515866875438646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 456
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce020a0da82e6ec0800000000000000
+      internalID: -3571872730795864372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de36b3be0b83a74a0800000000000000
+      internalID: -6594896371818732563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0e5ffc24db170d0800000000000000
+      internalID: -3426749746797748022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891d3ac47b76c540800000000000000
+      internalID: 5027841775545162117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5395f7c3ce2e19e60800000000000000
+      internalID: 7967398720050256181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b12eb54f59218ba0800000000000000
+      internalID: -6088539732059479625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a127207fcea343770800000000000000
+      internalID: 8589555178733203994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f43f95b79d83cfb0800000000000000
+      internalID: -4628700309280049930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3abe164cf83aa7b0800000000000000
+      internalID: -5212290962568594883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f05ea58b3a5ca80800000000000000
+      internalID: -8447165513869226100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8097452711c6e30800000000000000
+      internalID: 4497989310577445079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadefe33c1454a1b0800000000000000
+      internalID: -5646295552708579922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0e2b70ee4ffd460800000000000000
+      internalID: 7268797626767827151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6766463e023e8e420800000000000000
+      internalID: 2659625310355744374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_26
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d29841c137a2fb60800000000000000
+      internalID: 7778463338560262868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8042e85eae5bd10800000000000000
+      internalID: 2140875469537675490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df5231caab182070800000000000000
+      internalID: 8081739951516049363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd95400a3a8aaae30800000000000000
+      internalID: 4515606997110118875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_30
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae1f0fe787b79e60800000000000000
+      internalID: 7969039860114595500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_31
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873d577d18dd498f0800000000000000
+      internalID: -534558906014903432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72d69fbaffccbaa0800000000000000
+      internalID: -6143807115777092998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 431
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adc2624a6ba36ca0800000000000000
+      internalID: -6024783403622937178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44f3a4da0f96d50800000000000000
+      internalID: 6731175745147585743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e963c4c02c102d3a0800000000000000
+      internalID: -6642244567476455778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c096969b7bc0987d0800000000000000
+      internalID: -2915785300516443892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50773565af4a9120800000000000000
+      internalID: 2421335321451393116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a704ebd498774b0800000000000000
+      internalID: -5442730657656571327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be1f8298d80bb080800000000000000
+      internalID: -9170726489945071945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_40
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4adaeb43a2240b70800000000000000
+      internalID: 8864248051320674894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdda7c9ad13354940800000000000000
+      internalID: 5279682340657278427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac558a7a199bf680800000000000000
+      internalID: -8720207914469073751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_43
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e3900314aae41a0800000000000000
+      internalID: -6823329188464214399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_44
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710581d6112581dc0800000000000000
+      internalID: -3668091661695037417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_45
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613cd633ff180bf10800000000000000
+      internalID: 2283467944156316438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db03e5ee05937f770800000000000000
+      internalID: 8644441029520273597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_47
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20878da72d27ca330800000000000000
+      internalID: 3723477240258263042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_48
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e551728567cd5f710800000000000000
+      internalID: 1726528433009661278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_49
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552c9ea1cd4190220800000000000000
+      internalID: 2452514407656833621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77eda5449f81f640800000000000000
+      internalID: 5112024919029180287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_51
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee44b173338a4c70800000000000000
+      internalID: 8956115065953865448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_52
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25fa6f5efc0aa190800000000000000
+      internalID: -7950527905507117779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_53
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9448600a9d768a200800000000000000
+      internalID: 191517168553591881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eb0d7910251b260800000000000000
+      internalID: 7111555453390208543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378dd3ee10e047eb0800000000000000
+      internalID: -4723134707750021005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_56
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a6be925e4634f70800000000000000
+      internalID: 9170284201670044228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_57
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdb6b54f77b1e2c0800000000000000
+      internalID: -4404037203333300813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f04c86eaa8206a0800000000000000
+      internalID: -6484468031773470943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_59
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416e685e016d57cf0800000000000000
+      internalID: -255062435817921004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf34e7913bcc6c860800000000000000
+      internalID: 7549946894932132860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654e54dce5811b2e0800000000000000
+      internalID: -2111879954810149802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd2ab7a3d301e50800000000000000
+      internalID: 6777984760584265568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133157c9af8fc11a0800000000000000
+      internalID: -6837316379004824783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6957b2746eb55cdf0800000000000000
+      internalID: -160621167107148394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_65
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7326c1218190a110800000000000000
+      internalID: 1270175078721921918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_66
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225d1ef6dce9e29b0800000000000000
+      internalID: -5102966722581637854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812b3a58ea14a7560800000000000000
+      internalID: 7312229162811634200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_68
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a310b355fb0d76720800000000000000
+      internalID: 2839467610267648314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_69
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d37c84a5ac32690800000000000000
+      internalID: -7628030854718603882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_70
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af7afbb2d49086a0800000000000000
+      internalID: -6448991033576751195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_71
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119323d5f7176af30800000000000000
+      internalID: 4586478062361786641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_72
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8881fca3e287f910800000000000000
+      internalID: 1871108084566427786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_73
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 381
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c91264fd2dc7520800000000000000
+      internalID: 2701265732911602769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02464d47d3069bab0800000000000000
+      internalID: -4991852894894136288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_75
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e3c2f8da79e08a0800000000000000
+      internalID: -6336960853976531305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_76
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba3763bbccfc7390800000000000000
+      internalID: -7819096901203576134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_77
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb32ca10c3952990800000000000000
+      internalID: -7411355158476342350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_78
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb62579d9923e3b0800000000000000
+      internalID: -5484494164381766674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f2a0c4ae98c8fa0800000000000000
+      internalID: -5797106980941582441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_80
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea827e2c17de9c0800000000000000
+      internalID: -3896333020689813820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88015a970b0def80800000000000000
+      internalID: -8075786429523752819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_82
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d120cf273a7098650800000000000000
+      internalID: 6235523557661344285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_83
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a42e026ca31dba0800000000000000
+      internalID: -6066002600461710785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_84
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccde032419b04130800000000000000
+      internalID: 3549040002506611913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_85
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549ec51c8e7522e90800000000000000
+      internalID: -7051977409320654523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_86
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 356
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f358df65387efb0800000000000000
+      internalID: -4618578483201359991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d48331be6102a0800000000000000
+      internalID: -6773010657235904380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_88
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77066f81d5d80cb0800000000000000
+      internalID: -4897429498734704771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_89
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0628b11edaffa03c0800000000000000
+      internalID: -4392417364275396000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_90
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b754919927f549d90800000000000000
+      internalID: -7091938567402207877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb11e0702256b7e0800000000000000
+      internalID: -1750121105900627001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_92
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28e076aa23754230800000000000000
+      internalID: 3622428102307670062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_93
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91646d490fef2bb40800000000000000
+      internalID: 5454702407941768729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_94
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421321c0f92f8e300800000000000000
+      internalID: 281741741626896676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_95
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b98bd8a56d15eb0800000000000000
+      internalID: -4732766048976594063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_96
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3042835c9a83e3ae0800000000000000
+      internalID: -1567753318468934653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_97
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bdeb4981bfba1d0800000000000000
+      internalID: -3338298615771767913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_98
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7959a7c04ebbb7e50800000000000000
+      internalID: 6808241849836934551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_99
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7ea1e7975a81960800000000000000
+      internalID: 7572984714648807371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_100
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9a7b41fc12b210800000000000000
+      internalID: 1347171061216223209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_101
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e654b74e8eaf2bf40800000000000000
+      internalID: 5742928353023444334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_102
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c004ccb3be9403ac0800000000000000
+      internalID: -3877518004496613364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92decca85b9e8690800000000000000
+      internalID: -7597964716168785250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_104
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca385d95fa7c217e0800000000000000
+      internalID: -1796153745427037268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_105
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657a10191a903fb20800000000000000
+      internalID: 3166885552498779990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_106
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c9f58c0b0b69830800000000000000
+      internalID: 4077640785953004563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_107
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc03a58d27f2febd0800000000000000
+      internalID: -2598806289666920241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_108
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd941c8470825650800000000000000
+      internalID: 6220175273406799315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_109
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 331
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb542a504a61a140800000000000000
+      internalID: 4729177908338514884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb48f578b2b3660800000000000000
+      internalID: 7366529475917692471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_111
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad48ce0474d6c10800000000000000
+      internalID: 2048371749695052405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_112
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9563937cde1c2890800000000000000
+      internalID: -7481570948788558438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_113
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914799e1ad8d70580800000000000000
+      internalID: -8860875310500318183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_114
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3ee788f38b68e40800000000000000
+      internalID: 5658412564850074565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_115
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf8cd2f4302bcb50800000000000000
+      internalID: 6614415889508634541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_116
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b8aaeca508576a0800000000000000
+      internalID: -6452109763635672167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_117
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114dff89dc2f88e70800000000000000
+      internalID: 9117804410460689425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_118
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d98707eb747610800000000000000
+      internalID: 1618054398326985274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_119
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4da9b18abe523c0800000000000000
+      internalID: -4384839554925144896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_120
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a7b597e1d53ffb0800000000000000
+      internalID: -4615242807658186148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_121
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7e6378d58db7ae0800000000000000
+      internalID: -1550407750486923309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_122
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d117f6eaccac8ad80800000000000000
+      internalID: -8239112537825644259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_123
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3032421bc83d4680800000000000000
+      internalID: -8769290454584643526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_124
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45e73e423155fdd0800000000000000
+      internalID: -2452965145530866355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_125
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caeff0df53003880800000000000000
+      internalID: -8633396775606031674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_126
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45e4e1df2a62e600800000000000000
+      internalID: 496075662581622091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_127
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9a27f7f4666cc30800000000000000
+      internalID: 4379300179291056616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_128
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30bdff8ad1d152f0800000000000000
+      internalID: -985776106768584643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_129
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989409c80aa58d6e0800000000000000
+      internalID: -1812599204417091191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_130
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6937449f0e7748f0800000000000000
+      internalID: -556337423579661974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirbt_TS_131
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 306
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24057e294f39376d0800000000000000
+      internalID: -2993886648625311678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
