@@ -1,16 +1,13 @@
 fileFormatVersion: 2
-guid: 852c89f7671211a48a4e9e9298d343c1
+guid: 30695aa680273914fb022be47a0439c5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7018075690738512241
-    second: Projectile_1
+      213: 6867276565943539593
+    second: 1Up
   - first:
-      213: 3994009008145145169
-    second: Projectile_2
-  - first:
-      213: -1327247248535775395
-    second: Projectile_3
+      213: -1486014813137605567
+    second: PowerUp
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -55,7 +52,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 40
+  spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,54 +97,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Projectile_1
+      name: 1Up
       rect:
         serializedVersion: 2
-        x: 165
-        y: 1278
-        width: 25
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 171f54948a6356160800000000000000
-      internalID: 7018075690738512241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Projectile_2
-      rect:
-        serializedVersion: 2
-        x: 219
-        y: 1278
-        width: 26
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 15d933028029d6730800000000000000
-      internalID: 3994009008145145169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Projectile_3
-      rect:
-        serializedVersion: 2
-        x: 275
-        y: 1277
-        width: 25
+        x: 154
+        y: 100
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -156,8 +111,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5719e5d8aba49de0800000000000000
-      internalID: -1327247248535775395
+      spriteID: 987dd6ff6a77d4f50800000000000000
+      internalID: 6867276565943539593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerUp
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ce6f3966d906be0800000000000000
+      internalID: -1486014813137605567
       vertices: []
       indices: 
       edges: []

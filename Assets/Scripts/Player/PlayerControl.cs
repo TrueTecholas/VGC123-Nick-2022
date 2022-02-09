@@ -24,6 +24,7 @@ public class PlayerControl : MonoBehaviour
         initialScale = transform.localScale;
 
         anim = GetComponent<Animator>();
+        sr = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
@@ -33,16 +34,15 @@ public class PlayerControl : MonoBehaviour
         {
             // move character to right, deltaTime is the time between frame updates
             transform.position += playerSpeed * Vector3.right * Time.deltaTime * movementCancel;
-            // flip character
-            transform.localScale = new Vector3(-initialScale.x, initialScale.y, initialScale.z);
-            transform.localScale = new Vector3(initialScale.x, initialScale.y, initialScale.z);
+            
+            sr.flipX = false;
         }
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             // move character to left, deltaTime is the time between frame 
             transform.position += playerSpeed * Vector3.left * Time.deltaTime * movementCancel;
-            // change the scale back to intial so character faces the right direction
-            transform.localScale = new Vector3(-initialScale.x, initialScale.y, initialScale.z);
+          
+            sr.flipX = true;
         }
 
         if (Input.GetKeyDown(KeyCode.UpArrow) && jumpCount < jumpAmount)
@@ -56,15 +56,17 @@ public class PlayerControl : MonoBehaviour
             GetComponent<Rigidbody2D>().AddForce(jumpForce * Vector3.up, ForceMode2D.Impulse);
             jumpCount++;
         }
+
+        AnimatorClipInfo[] curPlayingClip = anim.GetCurrentAnimatorClipInfo(0);
+
         if (Input.GetKeyDown(KeyCode.LeftControl))
         {
-            Debug.Log("Test For Attack");
-            isAttacking = true;
+            //Debug.Log("Test For Attack");
+            anim.SetTrigger("Fire1");
             movementCancel = 0;
         }
-        else
+        else if (movementCancel == 0 && curPlayingClip[0].clip.name != "Attack")
         {
-            isAttacking = false;
             movementCancel = 1;
         }
 
@@ -73,7 +75,6 @@ public class PlayerControl : MonoBehaviour
         anim.SetFloat("xVel", Mathf.Abs(hinput));
         anim.SetFloat("yVel", Mathf.Abs(vinput));
         anim.SetBool("isGrounded", isGrounded);
-        anim.SetBool("isAttacking", isAttacking);
 
 
 
@@ -87,11 +88,7 @@ public class PlayerControl : MonoBehaviour
             isGrounded = true;
             jumpCount = 0;
         }
-        // 10 is enemy layer
-        if (collision.collider.gameObject.layer == 10 && !isGrounded)
-        {
-            Destroy(collision.rigidbody.gameObject);
-        }
+
     }
 
     private void OnCollisionExit2D(Collision2D collision)
